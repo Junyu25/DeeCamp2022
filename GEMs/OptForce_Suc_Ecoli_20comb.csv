@@ -1,0 +1,21 @@
+﻿Number of interventions,Set number,Force Set,Type of regulation,Min flux in Wild Type (mmol/gDW hr),Max flux in Wild Type (mmol/gDW hr),Min flux in Mutant (mmol/gDW hr),Max flux in Mutant (mmol/gDW hr),Achieved flux (mmol/gDW hr),Objective function (mmol/gDW hr),Minimum guaranteed for target (mmol/gDW hr),Maximum guaranteed for target (mmol/gDW hr),Maximum growth rate (1/hr)
+1,1,SUCCtex,downregulation,-211.6196086,0,-400,-400,-400,400,400,400,0
+1,2,O2tex,downregulation,51.22321764,100,0,100,100,0,0,198.5308621,9.258552866
+1,3,MALS,upregulation,0,102.2572738,0,130.62,0,0,0,198.5306486,9.258552866
+1,4,EX_k_e,upregulation,-1.806093668,-1.756737,0,0,0,9.16316E-10,0,400,0
+1,5,EX_nh4_e,upregulation,-100,-97.207416,-42.3826087,0,0,0,0,400,0
+1,6,EX_pi_e,upregulation,-33.49296761,-8.681679,0,0,0,0,0,400,0
+1,7,EX_so4_e,upregulation,-55.20063903,-2.26989,0,0,0,0,0,400,0
+1,8,CO2tpp,upregulation,-488.0210371,130.1444904,100,321.85,100,0,0,81.64942419,9.258552866
+1,9,DHORTS,upregulation,-27.62895268,-2.977155,0,0,0,2.27374E-11,0,400,0
+1,10,ASAD,upregulation,-83.37335096,-9.621684,-39.16,0,0,0,0,400,0
+1,11,ACONTa,knockout,9.676728,155.4738069,55.69090909,169.6285714,0,2.78533E-10,0,381.3755102,0
+1,12,G3PD2,upregulation,-120.0434991,98.748748,-117.48,100,100,0,0,400,0
+1,13,GAPD,upregulation,85.01355144,278.336895,202.52,300,300,0,0,400,0
+1,14,IPPMIa,upregulation,-6.847363,-4.054779,0,0,0,0,0,400,0
+1,15,IPPMIb,upregulation,-6.847363,-4.054779,0,0,0,0,0,400,0
+1,16,KARA1,upregulation,-10.661005,-7.868421,0,0,0,0,0,400,0
+1,17,ILETA,upregulation,-5.407345,-2.614761,0,0,0,0,0,400,0
+1,18,IMPC,upregulation,-22.26622055,-4.884777,-11.6047619,0,0,0,0,400,0
+1,19,SDPDS,knockout,3.338541,4.734833,0,0,0,3.88923E-10,0,400,0
+1,20,ORPT,upregulation,-27.62895268,-2.977155,0,0,0,0,0,400,0
