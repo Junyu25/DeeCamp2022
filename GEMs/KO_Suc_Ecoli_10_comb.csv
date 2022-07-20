@@ -1,1024 +1,1024 @@
 comb
-"('PFL',)"
-"('RPI',)"
-"('TKT2',)"
-"('RPE',)"
-"('TALA',)"
-"('ALCD2x',)"
-"('LDH_D',)"
-"('ACALD',)"
-"('TKT1',)"
-"('ACONTa',)"
-"('PFL', 'RPI')"
-"('PFL', 'TKT2')"
-"('PFL', 'RPE')"
-"('PFL', 'TALA')"
-"('PFL', 'ALCD2x')"
-"('PFL', 'LDH_D')"
-"('PFL', 'ACALD')"
-"('PFL', 'TKT1')"
-"('PFL', 'ACONTa')"
-"('RPI', 'TKT2')"
-"('RPI', 'RPE')"
-"('RPI', 'TALA')"
-"('RPI', 'ALCD2x')"
-"('RPI', 'LDH_D')"
-"('RPI', 'ACALD')"
-"('RPI', 'TKT1')"
-"('RPI', 'ACONTa')"
-"('TKT2', 'RPE')"
-"('TKT2', 'TALA')"
-"('TKT2', 'ALCD2x')"
-"('TKT2', 'LDH_D')"
-"('TKT2', 'ACALD')"
-"('TKT2', 'TKT1')"
-"('TKT2', 'ACONTa')"
-"('RPE', 'TALA')"
-"('RPE', 'ALCD2x')"
-"('RPE', 'LDH_D')"
-"('RPE', 'ACALD')"
-"('RPE', 'TKT1')"
-"('RPE', 'ACONTa')"
-"('TALA', 'ALCD2x')"
-"('TALA', 'LDH_D')"
-"('TALA', 'ACALD')"
-"('TALA', 'TKT1')"
-"('TALA', 'ACONTa')"
-"('ALCD2x', 'LDH_D')"
-"('ALCD2x', 'ACALD')"
-"('ALCD2x', 'TKT1')"
-"('ALCD2x', 'ACONTa')"
-"('LDH_D', 'ACALD')"
-"('LDH_D', 'TKT1')"
-"('LDH_D', 'ACONTa')"
-"('ACALD', 'TKT1')"
-"('ACALD', 'ACONTa')"
-"('TKT1', 'ACONTa')"
-"('PFL', 'RPI', 'TKT2')"
-"('PFL', 'RPI', 'RPE')"
-"('PFL', 'RPI', 'TALA')"
-"('PFL', 'RPI', 'ALCD2x')"
-"('PFL', 'RPI', 'LDH_D')"
-"('PFL', 'RPI', 'ACALD')"
-"('PFL', 'RPI', 'TKT1')"
-"('PFL', 'RPI', 'ACONTa')"
-"('PFL', 'TKT2', 'RPE')"
-"('PFL', 'TKT2', 'TALA')"
-"('PFL', 'TKT2', 'ALCD2x')"
-"('PFL', 'TKT2', 'LDH_D')"
-"('PFL', 'TKT2', 'ACALD')"
-"('PFL', 'TKT2', 'TKT1')"
-"('PFL', 'TKT2', 'ACONTa')"
-"('PFL', 'RPE', 'TALA')"
-"('PFL', 'RPE', 'ALCD2x')"
-"('PFL', 'RPE', 'LDH_D')"
-"('PFL', 'RPE', 'ACALD')"
-"('PFL', 'RPE', 'TKT1')"
-"('PFL', 'RPE', 'ACONTa')"
-"('PFL', 'TALA', 'ALCD2x')"
-"('PFL', 'TALA', 'LDH_D')"
-"('PFL', 'TALA', 'ACALD')"
-"('PFL', 'TALA', 'TKT1')"
-"('PFL', 'TALA', 'ACONTa')"
-"('PFL', 'ALCD2x', 'LDH_D')"
-"('PFL', 'ALCD2x', 'ACALD')"
-"('PFL', 'ALCD2x', 'TKT1')"
-"('PFL', 'ALCD2x', 'ACONTa')"
-"('PFL', 'LDH_D', 'ACALD')"
-"('PFL', 'LDH_D', 'TKT1')"
-"('PFL', 'LDH_D', 'ACONTa')"
-"('PFL', 'ACALD', 'TKT1')"
-"('PFL', 'ACALD', 'ACONTa')"
-"('PFL', 'TKT1', 'ACONTa')"
-"('RPI', 'TKT2', 'RPE')"
-"('RPI', 'TKT2', 'TALA')"
-"('RPI', 'TKT2', 'ALCD2x')"
-"('RPI', 'TKT2', 'LDH_D')"
-"('RPI', 'TKT2', 'ACALD')"
-"('RPI', 'TKT2', 'TKT1')"
-"('RPI', 'TKT2', 'ACONTa')"
-"('RPI', 'RPE', 'TALA')"
-"('RPI', 'RPE', 'ALCD2x')"
-"('RPI', 'RPE', 'LDH_D')"
-"('RPI', 'RPE', 'ACALD')"
-"('RPI', 'RPE', 'TKT1')"
-"('RPI', 'RPE', 'ACONTa')"
-"('RPI', 'TALA', 'ALCD2x')"
-"('RPI', 'TALA', 'LDH_D')"
-"('RPI', 'TALA', 'ACALD')"
-"('RPI', 'TALA', 'TKT1')"
-"('RPI', 'TALA', 'ACONTa')"
-"('RPI', 'ALCD2x', 'LDH_D')"
-"('RPI', 'ALCD2x', 'ACALD')"
-"('RPI', 'ALCD2x', 'TKT1')"
-"('RPI', 'ALCD2x', 'ACONTa')"
-"('RPI', 'LDH_D', 'ACALD')"
-"('RPI', 'LDH_D', 'TKT1')"
-"('RPI', 'LDH_D', 'ACONTa')"
-"('RPI', 'ACALD', 'TKT1')"
-"('RPI', 'ACALD', 'ACONTa')"
-"('RPI', 'TKT1', 'ACONTa')"
-"('TKT2', 'RPE', 'TALA')"
-"('TKT2', 'RPE', 'ALCD2x')"
-"('TKT2', 'RPE', 'LDH_D')"
-"('TKT2', 'RPE', 'ACALD')"
-"('TKT2', 'RPE', 'TKT1')"
-"('TKT2', 'RPE', 'ACONTa')"
-"('TKT2', 'TALA', 'ALCD2x')"
-"('TKT2', 'TALA', 'LDH_D')"
-"('TKT2', 'TALA', 'ACALD')"
-"('TKT2', 'TALA', 'TKT1')"
-"('TKT2', 'TALA', 'ACONTa')"
-"('TKT2', 'ALCD2x', 'LDH_D')"
-"('TKT2', 'ALCD2x', 'ACALD')"
-"('TKT2', 'ALCD2x', 'TKT1')"
-"('TKT2', 'ALCD2x', 'ACONTa')"
-"('TKT2', 'LDH_D', 'ACALD')"
-"('TKT2', 'LDH_D', 'TKT1')"
-"('TKT2', 'LDH_D', 'ACONTa')"
-"('TKT2', 'ACALD', 'TKT1')"
-"('TKT2', 'ACALD', 'ACONTa')"
-"('TKT2', 'TKT1', 'ACONTa')"
-"('RPE', 'TALA', 'ALCD2x')"
-"('RPE', 'TALA', 'LDH_D')"
-"('RPE', 'TALA', 'ACALD')"
-"('RPE', 'TALA', 'TKT1')"
-"('RPE', 'TALA', 'ACONTa')"
-"('RPE', 'ALCD2x', 'LDH_D')"
-"('RPE', 'ALCD2x', 'ACALD')"
-"('RPE', 'ALCD2x', 'TKT1')"
-"('RPE', 'ALCD2x', 'ACONTa')"
-"('RPE', 'LDH_D', 'ACALD')"
-"('RPE', 'LDH_D', 'TKT1')"
-"('RPE', 'LDH_D', 'ACONTa')"
-"('RPE', 'ACALD', 'TKT1')"
-"('RPE', 'ACALD', 'ACONTa')"
-"('RPE', 'TKT1', 'ACONTa')"
-"('TALA', 'ALCD2x', 'LDH_D')"
-"('TALA', 'ALCD2x', 'ACALD')"
-"('TALA', 'ALCD2x', 'TKT1')"
-"('TALA', 'ALCD2x', 'ACONTa')"
-"('TALA', 'LDH_D', 'ACALD')"
-"('TALA', 'LDH_D', 'TKT1')"
-"('TALA', 'LDH_D', 'ACONTa')"
-"('TALA', 'ACALD', 'TKT1')"
-"('TALA', 'ACALD', 'ACONTa')"
-"('TALA', 'TKT1', 'ACONTa')"
-"('ALCD2x', 'LDH_D', 'ACALD')"
-"('ALCD2x', 'LDH_D', 'TKT1')"
-"('ALCD2x', 'LDH_D', 'ACONTa')"
-"('ALCD2x', 'ACALD', 'TKT1')"
-"('ALCD2x', 'ACALD', 'ACONTa')"
-"('ALCD2x', 'TKT1', 'ACONTa')"
-"('LDH_D', 'ACALD', 'TKT1')"
-"('LDH_D', 'ACALD', 'ACONTa')"
-"('LDH_D', 'TKT1', 'ACONTa')"
-"('ACALD', 'TKT1', 'ACONTa')"
-"('PFL', 'RPI', 'TKT2', 'RPE')"
-"('PFL', 'RPI', 'TKT2', 'TALA')"
-"('PFL', 'RPI', 'TKT2', 'ALCD2x')"
-"('PFL', 'RPI', 'TKT2', 'LDH_D')"
-"('PFL', 'RPI', 'TKT2', 'ACALD')"
-"('PFL', 'RPI', 'TKT2', 'TKT1')"
-"('PFL', 'RPI', 'TKT2', 'ACONTa')"
-"('PFL', 'RPI', 'RPE', 'TALA')"
-"('PFL', 'RPI', 'RPE', 'ALCD2x')"
-"('PFL', 'RPI', 'RPE', 'LDH_D')"
-"('PFL', 'RPI', 'RPE', 'ACALD')"
-"('PFL', 'RPI', 'RPE', 'TKT1')"
-"('PFL', 'RPI', 'RPE', 'ACONTa')"
-"('PFL', 'RPI', 'TALA', 'ALCD2x')"
-"('PFL', 'RPI', 'TALA', 'LDH_D')"
-"('PFL', 'RPI', 'TALA', 'ACALD')"
-"('PFL', 'RPI', 'TALA', 'TKT1')"
-"('PFL', 'RPI', 'TALA', 'ACONTa')"
-"('PFL', 'RPI', 'ALCD2x', 'LDH_D')"
-"('PFL', 'RPI', 'ALCD2x', 'ACALD')"
-"('PFL', 'RPI', 'ALCD2x', 'TKT1')"
-"('PFL', 'RPI', 'ALCD2x', 'ACONTa')"
-"('PFL', 'RPI', 'LDH_D', 'ACALD')"
-"('PFL', 'RPI', 'LDH_D', 'TKT1')"
-"('PFL', 'RPI', 'LDH_D', 'ACONTa')"
-"('PFL', 'RPI', 'ACALD', 'TKT1')"
-"('PFL', 'RPI', 'ACALD', 'ACONTa')"
-"('PFL', 'RPI', 'TKT1', 'ACONTa')"
-"('PFL', 'TKT2', 'RPE', 'TALA')"
-"('PFL', 'TKT2', 'RPE', 'ALCD2x')"
-"('PFL', 'TKT2', 'RPE', 'LDH_D')"
-"('PFL', 'TKT2', 'RPE', 'ACALD')"
-"('PFL', 'TKT2', 'RPE', 'TKT1')"
-"('PFL', 'TKT2', 'RPE', 'ACONTa')"
-"('PFL', 'TKT2', 'TALA', 'ALCD2x')"
-"('PFL', 'TKT2', 'TALA', 'LDH_D')"
-"('PFL', 'TKT2', 'TALA', 'ACALD')"
-"('PFL', 'TKT2', 'TALA', 'TKT1')"
-"('PFL', 'TKT2', 'TALA', 'ACONTa')"
-"('PFL', 'TKT2', 'ALCD2x', 'LDH_D')"
-"('PFL', 'TKT2', 'ALCD2x', 'ACALD')"
-"('PFL', 'TKT2', 'ALCD2x', 'TKT1')"
-"('PFL', 'TKT2', 'ALCD2x', 'ACONTa')"
-"('PFL', 'TKT2', 'LDH_D', 'ACALD')"
-"('PFL', 'TKT2', 'LDH_D', 'TKT1')"
-"('PFL', 'TKT2', 'LDH_D', 'ACONTa')"
-"('PFL', 'TKT2', 'ACALD', 'TKT1')"
-"('PFL', 'TKT2', 'ACALD', 'ACONTa')"
-"('PFL', 'TKT2', 'TKT1', 'ACONTa')"
-"('PFL', 'RPE', 'TALA', 'ALCD2x')"
-"('PFL', 'RPE', 'TALA', 'LDH_D')"
-"('PFL', 'RPE', 'TALA', 'ACALD')"
-"('PFL', 'RPE', 'TALA', 'TKT1')"
-"('PFL', 'RPE', 'TALA', 'ACONTa')"
-"('PFL', 'RPE', 'ALCD2x', 'LDH_D')"
-"('PFL', 'RPE', 'ALCD2x', 'ACALD')"
-"('PFL', 'RPE', 'ALCD2x', 'TKT1')"
-"('PFL', 'RPE', 'ALCD2x', 'ACONTa')"
-"('PFL', 'RPE', 'LDH_D', 'ACALD')"
-"('PFL', 'RPE', 'LDH_D', 'TKT1')"
-"('PFL', 'RPE', 'LDH_D', 'ACONTa')"
-"('PFL', 'RPE', 'ACALD', 'TKT1')"
-"('PFL', 'RPE', 'ACALD', 'ACONTa')"
-"('PFL', 'RPE', 'TKT1', 'ACONTa')"
-"('PFL', 'TALA', 'ALCD2x', 'LDH_D')"
-"('PFL', 'TALA', 'ALCD2x', 'ACALD')"
-"('PFL', 'TALA', 'ALCD2x', 'TKT1')"
-"('PFL', 'TALA', 'ALCD2x', 'ACONTa')"
-"('PFL', 'TALA', 'LDH_D', 'ACALD')"
-"('PFL', 'TALA', 'LDH_D', 'TKT1')"
-"('PFL', 'TALA', 'LDH_D', 'ACONTa')"
-"('PFL', 'TALA', 'ACALD', 'TKT1')"
-"('PFL', 'TALA', 'ACALD', 'ACONTa')"
-"('PFL', 'TALA', 'TKT1', 'ACONTa')"
-"('PFL', 'ALCD2x', 'LDH_D', 'ACALD')"
-"('PFL', 'ALCD2x', 'LDH_D', 'TKT1')"
-"('PFL', 'ALCD2x', 'LDH_D', 'ACONTa')"
-"('PFL', 'ALCD2x', 'ACALD', 'TKT1')"
-"('PFL', 'ALCD2x', 'ACALD', 'ACONTa')"
-"('PFL', 'ALCD2x', 'TKT1', 'ACONTa')"
-"('PFL', 'LDH_D', 'ACALD', 'TKT1')"
-"('PFL', 'LDH_D', 'ACALD', 'ACONTa')"
-"('PFL', 'LDH_D', 'TKT1', 'ACONTa')"
-"('PFL', 'ACALD', 'TKT1', 'ACONTa')"
-"('RPI', 'TKT2', 'RPE', 'TALA')"
-"('RPI', 'TKT2', 'RPE', 'ALCD2x')"
-"('RPI', 'TKT2', 'RPE', 'LDH_D')"
-"('RPI', 'TKT2', 'RPE', 'ACALD')"
-"('RPI', 'TKT2', 'RPE', 'TKT1')"
-"('RPI', 'TKT2', 'RPE', 'ACONTa')"
-"('RPI', 'TKT2', 'TALA', 'ALCD2x')"
-"('RPI', 'TKT2', 'TALA', 'LDH_D')"
-"('RPI', 'TKT2', 'TALA', 'ACALD')"
-"('RPI', 'TKT2', 'TALA', 'TKT1')"
-"('RPI', 'TKT2', 'TALA', 'ACONTa')"
-"('RPI', 'TKT2', 'ALCD2x', 'LDH_D')"
-"('RPI', 'TKT2', 'ALCD2x', 'ACALD')"
-"('RPI', 'TKT2', 'ALCD2x', 'TKT1')"
-"('RPI', 'TKT2', 'ALCD2x', 'ACONTa')"
-"('RPI', 'TKT2', 'LDH_D', 'ACALD')"
-"('RPI', 'TKT2', 'LDH_D', 'TKT1')"
-"('RPI', 'TKT2', 'LDH_D', 'ACONTa')"
-"('RPI', 'TKT2', 'ACALD', 'TKT1')"
-"('RPI', 'TKT2', 'ACALD', 'ACONTa')"
-"('RPI', 'TKT2', 'TKT1', 'ACONTa')"
-"('RPI', 'RPE', 'TALA', 'ALCD2x')"
-"('RPI', 'RPE', 'TALA', 'LDH_D')"
-"('RPI', 'RPE', 'TALA', 'ACALD')"
-"('RPI', 'RPE', 'TALA', 'TKT1')"
-"('RPI', 'RPE', 'TALA', 'ACONTa')"
-"('RPI', 'RPE', 'ALCD2x', 'LDH_D')"
-"('RPI', 'RPE', 'ALCD2x', 'ACALD')"
-"('RPI', 'RPE', 'ALCD2x', 'TKT1')"
-"('RPI', 'RPE', 'ALCD2x', 'ACONTa')"
-"('RPI', 'RPE', 'LDH_D', 'ACALD')"
-"('RPI', 'RPE', 'LDH_D', 'TKT1')"
-"('RPI', 'RPE', 'LDH_D', 'ACONTa')"
-"('RPI', 'RPE', 'ACALD', 'TKT1')"
-"('RPI', 'RPE', 'ACALD', 'ACONTa')"
-"('RPI', 'RPE', 'TKT1', 'ACONTa')"
-"('RPI', 'TALA', 'ALCD2x', 'LDH_D')"
-"('RPI', 'TALA', 'ALCD2x', 'ACALD')"
-"('RPI', 'TALA', 'ALCD2x', 'TKT1')"
-"('RPI', 'TALA', 'ALCD2x', 'ACONTa')"
-"('RPI', 'TALA', 'LDH_D', 'ACALD')"
-"('RPI', 'TALA', 'LDH_D', 'TKT1')"
-"('RPI', 'TALA', 'LDH_D', 'ACONTa')"
-"('RPI', 'TALA', 'ACALD', 'TKT1')"
-"('RPI', 'TALA', 'ACALD', 'ACONTa')"
-"('RPI', 'TALA', 'TKT1', 'ACONTa')"
-"('RPI', 'ALCD2x', 'LDH_D', 'ACALD')"
-"('RPI', 'ALCD2x', 'LDH_D', 'TKT1')"
-"('RPI', 'ALCD2x', 'LDH_D', 'ACONTa')"
-"('RPI', 'ALCD2x', 'ACALD', 'TKT1')"
-"('RPI', 'ALCD2x', 'ACALD', 'ACONTa')"
-"('RPI', 'ALCD2x', 'TKT1', 'ACONTa')"
-"('RPI', 'LDH_D', 'ACALD', 'TKT1')"
-"('RPI', 'LDH_D', 'ACALD', 'ACONTa')"
-"('RPI', 'LDH_D', 'TKT1', 'ACONTa')"
-"('RPI', 'ACALD', 'TKT1', 'ACONTa')"
-"('TKT2', 'RPE', 'TALA', 'ALCD2x')"
-"('TKT2', 'RPE', 'TALA', 'LDH_D')"
-"('TKT2', 'RPE', 'TALA', 'ACALD')"
-"('TKT2', 'RPE', 'TALA', 'TKT1')"
-"('TKT2', 'RPE', 'TALA', 'ACONTa')"
-"('TKT2', 'RPE', 'ALCD2x', 'LDH_D')"
-"('TKT2', 'RPE', 'ALCD2x', 'ACALD')"
-"('TKT2', 'RPE', 'ALCD2x', 'TKT1')"
-"('TKT2', 'RPE', 'ALCD2x', 'ACONTa')"
-"('TKT2', 'RPE', 'LDH_D', 'ACALD')"
-"('TKT2', 'RPE', 'LDH_D', 'TKT1')"
-"('TKT2', 'RPE', 'LDH_D', 'ACONTa')"
-"('TKT2', 'RPE', 'ACALD', 'TKT1')"
-"('TKT2', 'RPE', 'ACALD', 'ACONTa')"
-"('TKT2', 'RPE', 'TKT1', 'ACONTa')"
-"('TKT2', 'TALA', 'ALCD2x', 'LDH_D')"
-"('TKT2', 'TALA', 'ALCD2x', 'ACALD')"
-"('TKT2', 'TALA', 'ALCD2x', 'TKT1')"
-"('TKT2', 'TALA', 'ALCD2x', 'ACONTa')"
-"('TKT2', 'TALA', 'LDH_D', 'ACALD')"
-"('TKT2', 'TALA', 'LDH_D', 'TKT1')"
-"('TKT2', 'TALA', 'LDH_D', 'ACONTa')"
-"('TKT2', 'TALA', 'ACALD', 'TKT1')"
-"('TKT2', 'TALA', 'ACALD', 'ACONTa')"
-"('TKT2', 'TALA', 'TKT1', 'ACONTa')"
-"('TKT2', 'ALCD2x', 'LDH_D', 'ACALD')"
-"('TKT2', 'ALCD2x', 'LDH_D', 'TKT1')"
-"('TKT2', 'ALCD2x', 'LDH_D', 'ACONTa')"
-"('TKT2', 'ALCD2x', 'ACALD', 'TKT1')"
-"('TKT2', 'ALCD2x', 'ACALD', 'ACONTa')"
-"('TKT2', 'ALCD2x', 'TKT1', 'ACONTa')"
-"('TKT2', 'LDH_D', 'ACALD', 'TKT1')"
-"('TKT2', 'LDH_D', 'ACALD', 'ACONTa')"
-"('TKT2', 'LDH_D', 'TKT1', 'ACONTa')"
-"('TKT2', 'ACALD', 'TKT1', 'ACONTa')"
-"('RPE', 'TALA', 'ALCD2x', 'LDH_D')"
-"('RPE', 'TALA', 'ALCD2x', 'ACALD')"
-"('RPE', 'TALA', 'ALCD2x', 'TKT1')"
-"('RPE', 'TALA', 'ALCD2x', 'ACONTa')"
-"('RPE', 'TALA', 'LDH_D', 'ACALD')"
-"('RPE', 'TALA', 'LDH_D', 'TKT1')"
-"('RPE', 'TALA', 'LDH_D', 'ACONTa')"
-"('RPE', 'TALA', 'ACALD', 'TKT1')"
-"('RPE', 'TALA', 'ACALD', 'ACONTa')"
-"('RPE', 'TALA', 'TKT1', 'ACONTa')"
-"('RPE', 'ALCD2x', 'LDH_D', 'ACALD')"
-"('RPE', 'ALCD2x', 'LDH_D', 'TKT1')"
-"('RPE', 'ALCD2x', 'LDH_D', 'ACONTa')"
-"('RPE', 'ALCD2x', 'ACALD', 'TKT1')"
-"('RPE', 'ALCD2x', 'ACALD', 'ACONTa')"
-"('RPE', 'ALCD2x', 'TKT1', 'ACONTa')"
-"('RPE', 'LDH_D', 'ACALD', 'TKT1')"
-"('RPE', 'LDH_D', 'ACALD', 'ACONTa')"
-"('RPE', 'LDH_D', 'TKT1', 'ACONTa')"
-"('RPE', 'ACALD', 'TKT1', 'ACONTa')"
-"('TALA', 'ALCD2x', 'LDH_D', 'ACALD')"
-"('TALA', 'ALCD2x', 'LDH_D', 'TKT1')"
-"('TALA', 'ALCD2x', 'LDH_D', 'ACONTa')"
-"('TALA', 'ALCD2x', 'ACALD', 'TKT1')"
-"('TALA', 'ALCD2x', 'ACALD', 'ACONTa')"
-"('TALA', 'ALCD2x', 'TKT1', 'ACONTa')"
-"('TALA', 'LDH_D', 'ACALD', 'TKT1')"
-"('TALA', 'LDH_D', 'ACALD', 'ACONTa')"
-"('TALA', 'LDH_D', 'TKT1', 'ACONTa')"
-"('TALA', 'ACALD', 'TKT1', 'ACONTa')"
-"('ALCD2x', 'LDH_D', 'ACALD', 'TKT1')"
-"('ALCD2x', 'LDH_D', 'ACALD', 'ACONTa')"
-"('ALCD2x', 'LDH_D', 'TKT1', 'ACONTa')"
-"('ALCD2x', 'ACALD', 'TKT1', 'ACONTa')"
-"('LDH_D', 'ACALD', 'TKT1', 'ACONTa')"
-"('PFL', 'RPI', 'TKT2', 'RPE', 'TALA')"
-"('PFL', 'RPI', 'TKT2', 'RPE', 'ALCD2x')"
-"('PFL', 'RPI', 'TKT2', 'RPE', 'LDH_D')"
-"('PFL', 'RPI', 'TKT2', 'RPE', 'ACALD')"
-"('PFL', 'RPI', 'TKT2', 'RPE', 'TKT1')"
-"('PFL', 'RPI', 'TKT2', 'RPE', 'ACONTa')"
-"('PFL', 'RPI', 'TKT2', 'TALA', 'ALCD2x')"
-"('PFL', 'RPI', 'TKT2', 'TALA', 'LDH_D')"
-"('PFL', 'RPI', 'TKT2', 'TALA', 'ACALD')"
-"('PFL', 'RPI', 'TKT2', 'TALA', 'TKT1')"
-"('PFL', 'RPI', 'TKT2', 'TALA', 'ACONTa')"
-"('PFL', 'RPI', 'TKT2', 'ALCD2x', 'LDH_D')"
-"('PFL', 'RPI', 'TKT2', 'ALCD2x', 'ACALD')"
-"('PFL', 'RPI', 'TKT2', 'ALCD2x', 'TKT1')"
-"('PFL', 'RPI', 'TKT2', 'ALCD2x', 'ACONTa')"
-"('PFL', 'RPI', 'TKT2', 'LDH_D', 'ACALD')"
-"('PFL', 'RPI', 'TKT2', 'LDH_D', 'TKT1')"
-"('PFL', 'RPI', 'TKT2', 'LDH_D', 'ACONTa')"
-"('PFL', 'RPI', 'TKT2', 'ACALD', 'TKT1')"
-"('PFL', 'RPI', 'TKT2', 'ACALD', 'ACONTa')"
-"('PFL', 'RPI', 'TKT2', 'TKT1', 'ACONTa')"
-"('PFL', 'RPI', 'RPE', 'TALA', 'ALCD2x')"
-"('PFL', 'RPI', 'RPE', 'TALA', 'LDH_D')"
-"('PFL', 'RPI', 'RPE', 'TALA', 'ACALD')"
-"('PFL', 'RPI', 'RPE', 'TALA', 'TKT1')"
-"('PFL', 'RPI', 'RPE', 'TALA', 'ACONTa')"
-"('PFL', 'RPI', 'RPE', 'ALCD2x', 'LDH_D')"
-"('PFL', 'RPI', 'RPE', 'ALCD2x', 'ACALD')"
-"('PFL', 'RPI', 'RPE', 'ALCD2x', 'TKT1')"
-"('PFL', 'RPI', 'RPE', 'ALCD2x', 'ACONTa')"
-"('PFL', 'RPI', 'RPE', 'LDH_D', 'ACALD')"
-"('PFL', 'RPI', 'RPE', 'LDH_D', 'TKT1')"
-"('PFL', 'RPI', 'RPE', 'LDH_D', 'ACONTa')"
-"('PFL', 'RPI', 'RPE', 'ACALD', 'TKT1')"
-"('PFL', 'RPI', 'RPE', 'ACALD', 'ACONTa')"
-"('PFL', 'RPI', 'RPE', 'TKT1', 'ACONTa')"
-"('PFL', 'RPI', 'TALA', 'ALCD2x', 'LDH_D')"
-"('PFL', 'RPI', 'TALA', 'ALCD2x', 'ACALD')"
-"('PFL', 'RPI', 'TALA', 'ALCD2x', 'TKT1')"
-"('PFL', 'RPI', 'TALA', 'ALCD2x', 'ACONTa')"
-"('PFL', 'RPI', 'TALA', 'LDH_D', 'ACALD')"
-"('PFL', 'RPI', 'TALA', 'LDH_D', 'TKT1')"
-"('PFL', 'RPI', 'TALA', 'LDH_D', 'ACONTa')"
-"('PFL', 'RPI', 'TALA', 'ACALD', 'TKT1')"
-"('PFL', 'RPI', 'TALA', 'ACALD', 'ACONTa')"
-"('PFL', 'RPI', 'TALA', 'TKT1', 'ACONTa')"
-"('PFL', 'RPI', 'ALCD2x', 'LDH_D', 'ACALD')"
-"('PFL', 'RPI', 'ALCD2x', 'LDH_D', 'TKT1')"
-"('PFL', 'RPI', 'ALCD2x', 'LDH_D', 'ACONTa')"
-"('PFL', 'RPI', 'ALCD2x', 'ACALD', 'TKT1')"
-"('PFL', 'RPI', 'ALCD2x', 'ACALD', 'ACONTa')"
-"('PFL', 'RPI', 'ALCD2x', 'TKT1', 'ACONTa')"
-"('PFL', 'RPI', 'LDH_D', 'ACALD', 'TKT1')"
-"('PFL', 'RPI', 'LDH_D', 'ACALD', 'ACONTa')"
-"('PFL', 'RPI', 'LDH_D', 'TKT1', 'ACONTa')"
-"('PFL', 'RPI', 'ACALD', 'TKT1', 'ACONTa')"
-"('PFL', 'TKT2', 'RPE', 'TALA', 'ALCD2x')"
-"('PFL', 'TKT2', 'RPE', 'TALA', 'LDH_D')"
-"('PFL', 'TKT2', 'RPE', 'TALA', 'ACALD')"
-"('PFL', 'TKT2', 'RPE', 'TALA', 'TKT1')"
-"('PFL', 'TKT2', 'RPE', 'TALA', 'ACONTa')"
-"('PFL', 'TKT2', 'RPE', 'ALCD2x', 'LDH_D')"
-"('PFL', 'TKT2', 'RPE', 'ALCD2x', 'ACALD')"
-"('PFL', 'TKT2', 'RPE', 'ALCD2x', 'TKT1')"
-"('PFL', 'TKT2', 'RPE', 'ALCD2x', 'ACONTa')"
-"('PFL', 'TKT2', 'RPE', 'LDH_D', 'ACALD')"
-"('PFL', 'TKT2', 'RPE', 'LDH_D', 'TKT1')"
-"('PFL', 'TKT2', 'RPE', 'LDH_D', 'ACONTa')"
-"('PFL', 'TKT2', 'RPE', 'ACALD', 'TKT1')"
-"('PFL', 'TKT2', 'RPE', 'ACALD', 'ACONTa')"
-"('PFL', 'TKT2', 'RPE', 'TKT1', 'ACONTa')"
-"('PFL', 'TKT2', 'TALA', 'ALCD2x', 'LDH_D')"
-"('PFL', 'TKT2', 'TALA', 'ALCD2x', 'ACALD')"
-"('PFL', 'TKT2', 'TALA', 'ALCD2x', 'TKT1')"
-"('PFL', 'TKT2', 'TALA', 'ALCD2x', 'ACONTa')"
-"('PFL', 'TKT2', 'TALA', 'LDH_D', 'ACALD')"
-"('PFL', 'TKT2', 'TALA', 'LDH_D', 'TKT1')"
-"('PFL', 'TKT2', 'TALA', 'LDH_D', 'ACONTa')"
-"('PFL', 'TKT2', 'TALA', 'ACALD', 'TKT1')"
-"('PFL', 'TKT2', 'TALA', 'ACALD', 'ACONTa')"
-"('PFL', 'TKT2', 'TALA', 'TKT1', 'ACONTa')"
-"('PFL', 'TKT2', 'ALCD2x', 'LDH_D', 'ACALD')"
-"('PFL', 'TKT2', 'ALCD2x', 'LDH_D', 'TKT1')"
-"('PFL', 'TKT2', 'ALCD2x', 'LDH_D', 'ACONTa')"
-"('PFL', 'TKT2', 'ALCD2x', 'ACALD', 'TKT1')"
-"('PFL', 'TKT2', 'ALCD2x', 'ACALD', 'ACONTa')"
-"('PFL', 'TKT2', 'ALCD2x', 'TKT1', 'ACONTa')"
-"('PFL', 'TKT2', 'LDH_D', 'ACALD', 'TKT1')"
-"('PFL', 'TKT2', 'LDH_D', 'ACALD', 'ACONTa')"
-"('PFL', 'TKT2', 'LDH_D', 'TKT1', 'ACONTa')"
-"('PFL', 'TKT2', 'ACALD', 'TKT1', 'ACONTa')"
-"('PFL', 'RPE', 'TALA', 'ALCD2x', 'LDH_D')"
-"('PFL', 'RPE', 'TALA', 'ALCD2x', 'ACALD')"
-"('PFL', 'RPE', 'TALA', 'ALCD2x', 'TKT1')"
-"('PFL', 'RPE', 'TALA', 'ALCD2x', 'ACONTa')"
-"('PFL', 'RPE', 'TALA', 'LDH_D', 'ACALD')"
-"('PFL', 'RPE', 'TALA', 'LDH_D', 'TKT1')"
-"('PFL', 'RPE', 'TALA', 'LDH_D', 'ACONTa')"
-"('PFL', 'RPE', 'TALA', 'ACALD', 'TKT1')"
-"('PFL', 'RPE', 'TALA', 'ACALD', 'ACONTa')"
-"('PFL', 'RPE', 'TALA', 'TKT1', 'ACONTa')"
-"('PFL', 'RPE', 'ALCD2x', 'LDH_D', 'ACALD')"
-"('PFL', 'RPE', 'ALCD2x', 'LDH_D', 'TKT1')"
-"('PFL', 'RPE', 'ALCD2x', 'LDH_D', 'ACONTa')"
-"('PFL', 'RPE', 'ALCD2x', 'ACALD', 'TKT1')"
-"('PFL', 'RPE', 'ALCD2x', 'ACALD', 'ACONTa')"
-"('PFL', 'RPE', 'ALCD2x', 'TKT1', 'ACONTa')"
-"('PFL', 'RPE', 'LDH_D', 'ACALD', 'TKT1')"
-"('PFL', 'RPE', 'LDH_D', 'ACALD', 'ACONTa')"
-"('PFL', 'RPE', 'LDH_D', 'TKT1', 'ACONTa')"
-"('PFL', 'RPE', 'ACALD', 'TKT1', 'ACONTa')"
-"('PFL', 'TALA', 'ALCD2x', 'LDH_D', 'ACALD')"
-"('PFL', 'TALA', 'ALCD2x', 'LDH_D', 'TKT1')"
-"('PFL', 'TALA', 'ALCD2x', 'LDH_D', 'ACONTa')"
-"('PFL', 'TALA', 'ALCD2x', 'ACALD', 'TKT1')"
-"('PFL', 'TALA', 'ALCD2x', 'ACALD', 'ACONTa')"
-"('PFL', 'TALA', 'ALCD2x', 'TKT1', 'ACONTa')"
-"('PFL', 'TALA', 'LDH_D', 'ACALD', 'TKT1')"
-"('PFL', 'TALA', 'LDH_D', 'ACALD', 'ACONTa')"
-"('PFL', 'TALA', 'LDH_D', 'TKT1', 'ACONTa')"
-"('PFL', 'TALA', 'ACALD', 'TKT1', 'ACONTa')"
-"('PFL', 'ALCD2x', 'LDH_D', 'ACALD', 'TKT1')"
-"('PFL', 'ALCD2x', 'LDH_D', 'ACALD', 'ACONTa')"
-"('PFL', 'ALCD2x', 'LDH_D', 'TKT1', 'ACONTa')"
-"('PFL', 'ALCD2x', 'ACALD', 'TKT1', 'ACONTa')"
-"('PFL', 'LDH_D', 'ACALD', 'TKT1', 'ACONTa')"
-"('RPI', 'TKT2', 'RPE', 'TALA', 'ALCD2x')"
-"('RPI', 'TKT2', 'RPE', 'TALA', 'LDH_D')"
-"('RPI', 'TKT2', 'RPE', 'TALA', 'ACALD')"
-"('RPI', 'TKT2', 'RPE', 'TALA', 'TKT1')"
-"('RPI', 'TKT2', 'RPE', 'TALA', 'ACONTa')"
-"('RPI', 'TKT2', 'RPE', 'ALCD2x', 'LDH_D')"
-"('RPI', 'TKT2', 'RPE', 'ALCD2x', 'ACALD')"
-"('RPI', 'TKT2', 'RPE', 'ALCD2x', 'TKT1')"
-"('RPI', 'TKT2', 'RPE', 'ALCD2x', 'ACONTa')"
-"('RPI', 'TKT2', 'RPE', 'LDH_D', 'ACALD')"
-"('RPI', 'TKT2', 'RPE', 'LDH_D', 'TKT1')"
-"('RPI', 'TKT2', 'RPE', 'LDH_D', 'ACONTa')"
-"('RPI', 'TKT2', 'RPE', 'ACALD', 'TKT1')"
-"('RPI', 'TKT2', 'RPE', 'ACALD', 'ACONTa')"
-"('RPI', 'TKT2', 'RPE', 'TKT1', 'ACONTa')"
-"('RPI', 'TKT2', 'TALA', 'ALCD2x', 'LDH_D')"
-"('RPI', 'TKT2', 'TALA', 'ALCD2x', 'ACALD')"
-"('RPI', 'TKT2', 'TALA', 'ALCD2x', 'TKT1')"
-"('RPI', 'TKT2', 'TALA', 'ALCD2x', 'ACONTa')"
-"('RPI', 'TKT2', 'TALA', 'LDH_D', 'ACALD')"
-"('RPI', 'TKT2', 'TALA', 'LDH_D', 'TKT1')"
-"('RPI', 'TKT2', 'TALA', 'LDH_D', 'ACONTa')"
-"('RPI', 'TKT2', 'TALA', 'ACALD', 'TKT1')"
-"('RPI', 'TKT2', 'TALA', 'ACALD', 'ACONTa')"
-"('RPI', 'TKT2', 'TALA', 'TKT1', 'ACONTa')"
-"('RPI', 'TKT2', 'ALCD2x', 'LDH_D', 'ACALD')"
-"('RPI', 'TKT2', 'ALCD2x', 'LDH_D', 'TKT1')"
-"('RPI', 'TKT2', 'ALCD2x', 'LDH_D', 'ACONTa')"
-"('RPI', 'TKT2', 'ALCD2x', 'ACALD', 'TKT1')"
-"('RPI', 'TKT2', 'ALCD2x', 'ACALD', 'ACONTa')"
-"('RPI', 'TKT2', 'ALCD2x', 'TKT1', 'ACONTa')"
-"('RPI', 'TKT2', 'LDH_D', 'ACALD', 'TKT1')"
-"('RPI', 'TKT2', 'LDH_D', 'ACALD', 'ACONTa')"
-"('RPI', 'TKT2', 'LDH_D', 'TKT1', 'ACONTa')"
-"('RPI', 'TKT2', 'ACALD', 'TKT1', 'ACONTa')"
-"('RPI', 'RPE', 'TALA', 'ALCD2x', 'LDH_D')"
-"('RPI', 'RPE', 'TALA', 'ALCD2x', 'ACALD')"
-"('RPI', 'RPE', 'TALA', 'ALCD2x', 'TKT1')"
-"('RPI', 'RPE', 'TALA', 'ALCD2x', 'ACONTa')"
-"('RPI', 'RPE', 'TALA', 'LDH_D', 'ACALD')"
-"('RPI', 'RPE', 'TALA', 'LDH_D', 'TKT1')"
-"('RPI', 'RPE', 'TALA', 'LDH_D', 'ACONTa')"
-"('RPI', 'RPE', 'TALA', 'ACALD', 'TKT1')"
-"('RPI', 'RPE', 'TALA', 'ACALD', 'ACONTa')"
-"('RPI', 'RPE', 'TALA', 'TKT1', 'ACONTa')"
-"('RPI', 'RPE', 'ALCD2x', 'LDH_D', 'ACALD')"
-"('RPI', 'RPE', 'ALCD2x', 'LDH_D', 'TKT1')"
-"('RPI', 'RPE', 'ALCD2x', 'LDH_D', 'ACONTa')"
-"('RPI', 'RPE', 'ALCD2x', 'ACALD', 'TKT1')"
-"('RPI', 'RPE', 'ALCD2x', 'ACALD', 'ACONTa')"
-"('RPI', 'RPE', 'ALCD2x', 'TKT1', 'ACONTa')"
-"('RPI', 'RPE', 'LDH_D', 'ACALD', 'TKT1')"
-"('RPI', 'RPE', 'LDH_D', 'ACALD', 'ACONTa')"
-"('RPI', 'RPE', 'LDH_D', 'TKT1', 'ACONTa')"
-"('RPI', 'RPE', 'ACALD', 'TKT1', 'ACONTa')"
-"('RPI', 'TALA', 'ALCD2x', 'LDH_D', 'ACALD')"
-"('RPI', 'TALA', 'ALCD2x', 'LDH_D', 'TKT1')"
-"('RPI', 'TALA', 'ALCD2x', 'LDH_D', 'ACONTa')"
-"('RPI', 'TALA', 'ALCD2x', 'ACALD', 'TKT1')"
-"('RPI', 'TALA', 'ALCD2x', 'ACALD', 'ACONTa')"
-"('RPI', 'TALA', 'ALCD2x', 'TKT1', 'ACONTa')"
-"('RPI', 'TALA', 'LDH_D', 'ACALD', 'TKT1')"
-"('RPI', 'TALA', 'LDH_D', 'ACALD', 'ACONTa')"
-"('RPI', 'TALA', 'LDH_D', 'TKT1', 'ACONTa')"
-"('RPI', 'TALA', 'ACALD', 'TKT1', 'ACONTa')"
-"('RPI', 'ALCD2x', 'LDH_D', 'ACALD', 'TKT1')"
-"('RPI', 'ALCD2x', 'LDH_D', 'ACALD', 'ACONTa')"
-"('RPI', 'ALCD2x', 'LDH_D', 'TKT1', 'ACONTa')"
-"('RPI', 'ALCD2x', 'ACALD', 'TKT1', 'ACONTa')"
-"('RPI', 'LDH_D', 'ACALD', 'TKT1', 'ACONTa')"
-"('TKT2', 'RPE', 'TALA', 'ALCD2x', 'LDH_D')"
-"('TKT2', 'RPE', 'TALA', 'ALCD2x', 'ACALD')"
-"('TKT2', 'RPE', 'TALA', 'ALCD2x', 'TKT1')"
-"('TKT2', 'RPE', 'TALA', 'ALCD2x', 'ACONTa')"
-"('TKT2', 'RPE', 'TALA', 'LDH_D', 'ACALD')"
-"('TKT2', 'RPE', 'TALA', 'LDH_D', 'TKT1')"
-"('TKT2', 'RPE', 'TALA', 'LDH_D', 'ACONTa')"
-"('TKT2', 'RPE', 'TALA', 'ACALD', 'TKT1')"
-"('TKT2', 'RPE', 'TALA', 'ACALD', 'ACONTa')"
-"('TKT2', 'RPE', 'TALA', 'TKT1', 'ACONTa')"
-"('TKT2', 'RPE', 'ALCD2x', 'LDH_D', 'ACALD')"
-"('TKT2', 'RPE', 'ALCD2x', 'LDH_D', 'TKT1')"
-"('TKT2', 'RPE', 'ALCD2x', 'LDH_D', 'ACONTa')"
-"('TKT2', 'RPE', 'ALCD2x', 'ACALD', 'TKT1')"
-"('TKT2', 'RPE', 'ALCD2x', 'ACALD', 'ACONTa')"
-"('TKT2', 'RPE', 'ALCD2x', 'TKT1', 'ACONTa')"
-"('TKT2', 'RPE', 'LDH_D', 'ACALD', 'TKT1')"
-"('TKT2', 'RPE', 'LDH_D', 'ACALD', 'ACONTa')"
-"('TKT2', 'RPE', 'LDH_D', 'TKT1', 'ACONTa')"
-"('TKT2', 'RPE', 'ACALD', 'TKT1', 'ACONTa')"
-"('TKT2', 'TALA', 'ALCD2x', 'LDH_D', 'ACALD')"
-"('TKT2', 'TALA', 'ALCD2x', 'LDH_D', 'TKT1')"
-"('TKT2', 'TALA', 'ALCD2x', 'LDH_D', 'ACONTa')"
-"('TKT2', 'TALA', 'ALCD2x', 'ACALD', 'TKT1')"
-"('TKT2', 'TALA', 'ALCD2x', 'ACALD', 'ACONTa')"
-"('TKT2', 'TALA', 'ALCD2x', 'TKT1', 'ACONTa')"
-"('TKT2', 'TALA', 'LDH_D', 'ACALD', 'TKT1')"
-"('TKT2', 'TALA', 'LDH_D', 'ACALD', 'ACONTa')"
-"('TKT2', 'TALA', 'LDH_D', 'TKT1', 'ACONTa')"
-"('TKT2', 'TALA', 'ACALD', 'TKT1', 'ACONTa')"
-"('TKT2', 'ALCD2x', 'LDH_D', 'ACALD', 'TKT1')"
-"('TKT2', 'ALCD2x', 'LDH_D', 'ACALD', 'ACONTa')"
-"('TKT2', 'ALCD2x', 'LDH_D', 'TKT1', 'ACONTa')"
-"('TKT2', 'ALCD2x', 'ACALD', 'TKT1', 'ACONTa')"
-"('TKT2', 'LDH_D', 'ACALD', 'TKT1', 'ACONTa')"
-"('RPE', 'TALA', 'ALCD2x', 'LDH_D', 'ACALD')"
-"('RPE', 'TALA', 'ALCD2x', 'LDH_D', 'TKT1')"
-"('RPE', 'TALA', 'ALCD2x', 'LDH_D', 'ACONTa')"
-"('RPE', 'TALA', 'ALCD2x', 'ACALD', 'TKT1')"
-"('RPE', 'TALA', 'ALCD2x', 'ACALD', 'ACONTa')"
-"('RPE', 'TALA', 'ALCD2x', 'TKT1', 'ACONTa')"
-"('RPE', 'TALA', 'LDH_D', 'ACALD', 'TKT1')"
-"('RPE', 'TALA', 'LDH_D', 'ACALD', 'ACONTa')"
-"('RPE', 'TALA', 'LDH_D', 'TKT1', 'ACONTa')"
-"('RPE', 'TALA', 'ACALD', 'TKT1', 'ACONTa')"
-"('RPE', 'ALCD2x', 'LDH_D', 'ACALD', 'TKT1')"
-"('RPE', 'ALCD2x', 'LDH_D', 'ACALD', 'ACONTa')"
-"('RPE', 'ALCD2x', 'LDH_D', 'TKT1', 'ACONTa')"
-"('RPE', 'ALCD2x', 'ACALD', 'TKT1', 'ACONTa')"
-"('RPE', 'LDH_D', 'ACALD', 'TKT1', 'ACONTa')"
-"('TALA', 'ALCD2x', 'LDH_D', 'ACALD', 'TKT1')"
-"('TALA', 'ALCD2x', 'LDH_D', 'ACALD', 'ACONTa')"
-"('TALA', 'ALCD2x', 'LDH_D', 'TKT1', 'ACONTa')"
-"('TALA', 'ALCD2x', 'ACALD', 'TKT1', 'ACONTa')"
-"('TALA', 'LDH_D', 'ACALD', 'TKT1', 'ACONTa')"
-"('ALCD2x', 'LDH_D', 'ACALD', 'TKT1', 'ACONTa')"
-"('PFL', 'RPI', 'TKT2', 'RPE', 'TALA', 'ALCD2x')"
-"('PFL', 'RPI', 'TKT2', 'RPE', 'TALA', 'LDH_D')"
-"('PFL', 'RPI', 'TKT2', 'RPE', 'TALA', 'ACALD')"
-"('PFL', 'RPI', 'TKT2', 'RPE', 'TALA', 'TKT1')"
-"('PFL', 'RPI', 'TKT2', 'RPE', 'TALA', 'ACONTa')"
-"('PFL', 'RPI', 'TKT2', 'RPE', 'ALCD2x', 'LDH_D')"
-"('PFL', 'RPI', 'TKT2', 'RPE', 'ALCD2x', 'ACALD')"
-"('PFL', 'RPI', 'TKT2', 'RPE', 'ALCD2x', 'TKT1')"
-"('PFL', 'RPI', 'TKT2', 'RPE', 'ALCD2x', 'ACONTa')"
-"('PFL', 'RPI', 'TKT2', 'RPE', 'LDH_D', 'ACALD')"
-"('PFL', 'RPI', 'TKT2', 'RPE', 'LDH_D', 'TKT1')"
-"('PFL', 'RPI', 'TKT2', 'RPE', 'LDH_D', 'ACONTa')"
-"('PFL', 'RPI', 'TKT2', 'RPE', 'ACALD', 'TKT1')"
-"('PFL', 'RPI', 'TKT2', 'RPE', 'ACALD', 'ACONTa')"
-"('PFL', 'RPI', 'TKT2', 'RPE', 'TKT1', 'ACONTa')"
-"('PFL', 'RPI', 'TKT2', 'TALA', 'ALCD2x', 'LDH_D')"
-"('PFL', 'RPI', 'TKT2', 'TALA', 'ALCD2x', 'ACALD')"
-"('PFL', 'RPI', 'TKT2', 'TALA', 'ALCD2x', 'TKT1')"
-"('PFL', 'RPI', 'TKT2', 'TALA', 'ALCD2x', 'ACONTa')"
-"('PFL', 'RPI', 'TKT2', 'TALA', 'LDH_D', 'ACALD')"
-"('PFL', 'RPI', 'TKT2', 'TALA', 'LDH_D', 'TKT1')"
-"('PFL', 'RPI', 'TKT2', 'TALA', 'LDH_D', 'ACONTa')"
-"('PFL', 'RPI', 'TKT2', 'TALA', 'ACALD', 'TKT1')"
-"('PFL', 'RPI', 'TKT2', 'TALA', 'ACALD', 'ACONTa')"
-"('PFL', 'RPI', 'TKT2', 'TALA', 'TKT1', 'ACONTa')"
-"('PFL', 'RPI', 'TKT2', 'ALCD2x', 'LDH_D', 'ACALD')"
-"('PFL', 'RPI', 'TKT2', 'ALCD2x', 'LDH_D', 'TKT1')"
-"('PFL', 'RPI', 'TKT2', 'ALCD2x', 'LDH_D', 'ACONTa')"
-"('PFL', 'RPI', 'TKT2', 'ALCD2x', 'ACALD', 'TKT1')"
-"('PFL', 'RPI', 'TKT2', 'ALCD2x', 'ACALD', 'ACONTa')"
-"('PFL', 'RPI', 'TKT2', 'ALCD2x', 'TKT1', 'ACONTa')"
-"('PFL', 'RPI', 'TKT2', 'LDH_D', 'ACALD', 'TKT1')"
-"('PFL', 'RPI', 'TKT2', 'LDH_D', 'ACALD', 'ACONTa')"
-"('PFL', 'RPI', 'TKT2', 'LDH_D', 'TKT1', 'ACONTa')"
-"('PFL', 'RPI', 'TKT2', 'ACALD', 'TKT1', 'ACONTa')"
-"('PFL', 'RPI', 'RPE', 'TALA', 'ALCD2x', 'LDH_D')"
-"('PFL', 'RPI', 'RPE', 'TALA', 'ALCD2x', 'ACALD')"
-"('PFL', 'RPI', 'RPE', 'TALA', 'ALCD2x', 'TKT1')"
-"('PFL', 'RPI', 'RPE', 'TALA', 'ALCD2x', 'ACONTa')"
-"('PFL', 'RPI', 'RPE', 'TALA', 'LDH_D', 'ACALD')"
-"('PFL', 'RPI', 'RPE', 'TALA', 'LDH_D', 'TKT1')"
-"('PFL', 'RPI', 'RPE', 'TALA', 'LDH_D', 'ACONTa')"
-"('PFL', 'RPI', 'RPE', 'TALA', 'ACALD', 'TKT1')"
-"('PFL', 'RPI', 'RPE', 'TALA', 'ACALD', 'ACONTa')"
-"('PFL', 'RPI', 'RPE', 'TALA', 'TKT1', 'ACONTa')"
-"('PFL', 'RPI', 'RPE', 'ALCD2x', 'LDH_D', 'ACALD')"
-"('PFL', 'RPI', 'RPE', 'ALCD2x', 'LDH_D', 'TKT1')"
-"('PFL', 'RPI', 'RPE', 'ALCD2x', 'LDH_D', 'ACONTa')"
-"('PFL', 'RPI', 'RPE', 'ALCD2x', 'ACALD', 'TKT1')"
-"('PFL', 'RPI', 'RPE', 'ALCD2x', 'ACALD', 'ACONTa')"
-"('PFL', 'RPI', 'RPE', 'ALCD2x', 'TKT1', 'ACONTa')"
-"('PFL', 'RPI', 'RPE', 'LDH_D', 'ACALD', 'TKT1')"
-"('PFL', 'RPI', 'RPE', 'LDH_D', 'ACALD', 'ACONTa')"
-"('PFL', 'RPI', 'RPE', 'LDH_D', 'TKT1', 'ACONTa')"
-"('PFL', 'RPI', 'RPE', 'ACALD', 'TKT1', 'ACONTa')"
-"('PFL', 'RPI', 'TALA', 'ALCD2x', 'LDH_D', 'ACALD')"
-"('PFL', 'RPI', 'TALA', 'ALCD2x', 'LDH_D', 'TKT1')"
-"('PFL', 'RPI', 'TALA', 'ALCD2x', 'LDH_D', 'ACONTa')"
-"('PFL', 'RPI', 'TALA', 'ALCD2x', 'ACALD', 'TKT1')"
-"('PFL', 'RPI', 'TALA', 'ALCD2x', 'ACALD', 'ACONTa')"
-"('PFL', 'RPI', 'TALA', 'ALCD2x', 'TKT1', 'ACONTa')"
-"('PFL', 'RPI', 'TALA', 'LDH_D', 'ACALD', 'TKT1')"
-"('PFL', 'RPI', 'TALA', 'LDH_D', 'ACALD', 'ACONTa')"
-"('PFL', 'RPI', 'TALA', 'LDH_D', 'TKT1', 'ACONTa')"
-"('PFL', 'RPI', 'TALA', 'ACALD', 'TKT1', 'ACONTa')"
-"('PFL', 'RPI', 'ALCD2x', 'LDH_D', 'ACALD', 'TKT1')"
-"('PFL', 'RPI', 'ALCD2x', 'LDH_D', 'ACALD', 'ACONTa')"
-"('PFL', 'RPI', 'ALCD2x', 'LDH_D', 'TKT1', 'ACONTa')"
-"('PFL', 'RPI', 'ALCD2x', 'ACALD', 'TKT1', 'ACONTa')"
-"('PFL', 'RPI', 'LDH_D', 'ACALD', 'TKT1', 'ACONTa')"
-"('PFL', 'TKT2', 'RPE', 'TALA', 'ALCD2x', 'LDH_D')"
-"('PFL', 'TKT2', 'RPE', 'TALA', 'ALCD2x', 'ACALD')"
-"('PFL', 'TKT2', 'RPE', 'TALA', 'ALCD2x', 'TKT1')"
-"('PFL', 'TKT2', 'RPE', 'TALA', 'ALCD2x', 'ACONTa')"
-"('PFL', 'TKT2', 'RPE', 'TALA', 'LDH_D', 'ACALD')"
-"('PFL', 'TKT2', 'RPE', 'TALA', 'LDH_D', 'TKT1')"
-"('PFL', 'TKT2', 'RPE', 'TALA', 'LDH_D', 'ACONTa')"
-"('PFL', 'TKT2', 'RPE', 'TALA', 'ACALD', 'TKT1')"
-"('PFL', 'TKT2', 'RPE', 'TALA', 'ACALD', 'ACONTa')"
-"('PFL', 'TKT2', 'RPE', 'TALA', 'TKT1', 'ACONTa')"
-"('PFL', 'TKT2', 'RPE', 'ALCD2x', 'LDH_D', 'ACALD')"
-"('PFL', 'TKT2', 'RPE', 'ALCD2x', 'LDH_D', 'TKT1')"
-"('PFL', 'TKT2', 'RPE', 'ALCD2x', 'LDH_D', 'ACONTa')"
-"('PFL', 'TKT2', 'RPE', 'ALCD2x', 'ACALD', 'TKT1')"
-"('PFL', 'TKT2', 'RPE', 'ALCD2x', 'ACALD', 'ACONTa')"
-"('PFL', 'TKT2', 'RPE', 'ALCD2x', 'TKT1', 'ACONTa')"
-"('PFL', 'TKT2', 'RPE', 'LDH_D', 'ACALD', 'TKT1')"
-"('PFL', 'TKT2', 'RPE', 'LDH_D', 'ACALD', 'ACONTa')"
-"('PFL', 'TKT2', 'RPE', 'LDH_D', 'TKT1', 'ACONTa')"
-"('PFL', 'TKT2', 'RPE', 'ACALD', 'TKT1', 'ACONTa')"
-"('PFL', 'TKT2', 'TALA', 'ALCD2x', 'LDH_D', 'ACALD')"
-"('PFL', 'TKT2', 'TALA', 'ALCD2x', 'LDH_D', 'TKT1')"
-"('PFL', 'TKT2', 'TALA', 'ALCD2x', 'LDH_D', 'ACONTa')"
-"('PFL', 'TKT2', 'TALA', 'ALCD2x', 'ACALD', 'TKT1')"
-"('PFL', 'TKT2', 'TALA', 'ALCD2x', 'ACALD', 'ACONTa')"
-"('PFL', 'TKT2', 'TALA', 'ALCD2x', 'TKT1', 'ACONTa')"
-"('PFL', 'TKT2', 'TALA', 'LDH_D', 'ACALD', 'TKT1')"
-"('PFL', 'TKT2', 'TALA', 'LDH_D', 'ACALD', 'ACONTa')"
-"('PFL', 'TKT2', 'TALA', 'LDH_D', 'TKT1', 'ACONTa')"
-"('PFL', 'TKT2', 'TALA', 'ACALD', 'TKT1', 'ACONTa')"
-"('PFL', 'TKT2', 'ALCD2x', 'LDH_D', 'ACALD', 'TKT1')"
-"('PFL', 'TKT2', 'ALCD2x', 'LDH_D', 'ACALD', 'ACONTa')"
-"('PFL', 'TKT2', 'ALCD2x', 'LDH_D', 'TKT1', 'ACONTa')"
-"('PFL', 'TKT2', 'ALCD2x', 'ACALD', 'TKT1', 'ACONTa')"
-"('PFL', 'TKT2', 'LDH_D', 'ACALD', 'TKT1', 'ACONTa')"
-"('PFL', 'RPE', 'TALA', 'ALCD2x', 'LDH_D', 'ACALD')"
-"('PFL', 'RPE', 'TALA', 'ALCD2x', 'LDH_D', 'TKT1')"
-"('PFL', 'RPE', 'TALA', 'ALCD2x', 'LDH_D', 'ACONTa')"
-"('PFL', 'RPE', 'TALA', 'ALCD2x', 'ACALD', 'TKT1')"
-"('PFL', 'RPE', 'TALA', 'ALCD2x', 'ACALD', 'ACONTa')"
-"('PFL', 'RPE', 'TALA', 'ALCD2x', 'TKT1', 'ACONTa')"
-"('PFL', 'RPE', 'TALA', 'LDH_D', 'ACALD', 'TKT1')"
-"('PFL', 'RPE', 'TALA', 'LDH_D', 'ACALD', 'ACONTa')"
-"('PFL', 'RPE', 'TALA', 'LDH_D', 'TKT1', 'ACONTa')"
-"('PFL', 'RPE', 'TALA', 'ACALD', 'TKT1', 'ACONTa')"
-"('PFL', 'RPE', 'ALCD2x', 'LDH_D', 'ACALD', 'TKT1')"
-"('PFL', 'RPE', 'ALCD2x', 'LDH_D', 'ACALD', 'ACONTa')"
-"('PFL', 'RPE', 'ALCD2x', 'LDH_D', 'TKT1', 'ACONTa')"
-"('PFL', 'RPE', 'ALCD2x', 'ACALD', 'TKT1', 'ACONTa')"
-"('PFL', 'RPE', 'LDH_D', 'ACALD', 'TKT1', 'ACONTa')"
-"('PFL', 'TALA', 'ALCD2x', 'LDH_D', 'ACALD', 'TKT1')"
-"('PFL', 'TALA', 'ALCD2x', 'LDH_D', 'ACALD', 'ACONTa')"
-"('PFL', 'TALA', 'ALCD2x', 'LDH_D', 'TKT1', 'ACONTa')"
-"('PFL', 'TALA', 'ALCD2x', 'ACALD', 'TKT1', 'ACONTa')"
-"('PFL', 'TALA', 'LDH_D', 'ACALD', 'TKT1', 'ACONTa')"
-"('PFL', 'ALCD2x', 'LDH_D', 'ACALD', 'TKT1', 'ACONTa')"
-"('RPI', 'TKT2', 'RPE', 'TALA', 'ALCD2x', 'LDH_D')"
-"('RPI', 'TKT2', 'RPE', 'TALA', 'ALCD2x', 'ACALD')"
-"('RPI', 'TKT2', 'RPE', 'TALA', 'ALCD2x', 'TKT1')"
-"('RPI', 'TKT2', 'RPE', 'TALA', 'ALCD2x', 'ACONTa')"
-"('RPI', 'TKT2', 'RPE', 'TALA', 'LDH_D', 'ACALD')"
-"('RPI', 'TKT2', 'RPE', 'TALA', 'LDH_D', 'TKT1')"
-"('RPI', 'TKT2', 'RPE', 'TALA', 'LDH_D', 'ACONTa')"
-"('RPI', 'TKT2', 'RPE', 'TALA', 'ACALD', 'TKT1')"
-"('RPI', 'TKT2', 'RPE', 'TALA', 'ACALD', 'ACONTa')"
-"('RPI', 'TKT2', 'RPE', 'TALA', 'TKT1', 'ACONTa')"
-"('RPI', 'TKT2', 'RPE', 'ALCD2x', 'LDH_D', 'ACALD')"
-"('RPI', 'TKT2', 'RPE', 'ALCD2x', 'LDH_D', 'TKT1')"
-"('RPI', 'TKT2', 'RPE', 'ALCD2x', 'LDH_D', 'ACONTa')"
-"('RPI', 'TKT2', 'RPE', 'ALCD2x', 'ACALD', 'TKT1')"
-"('RPI', 'TKT2', 'RPE', 'ALCD2x', 'ACALD', 'ACONTa')"
-"('RPI', 'TKT2', 'RPE', 'ALCD2x', 'TKT1', 'ACONTa')"
-"('RPI', 'TKT2', 'RPE', 'LDH_D', 'ACALD', 'TKT1')"
-"('RPI', 'TKT2', 'RPE', 'LDH_D', 'ACALD', 'ACONTa')"
-"('RPI', 'TKT2', 'RPE', 'LDH_D', 'TKT1', 'ACONTa')"
-"('RPI', 'TKT2', 'RPE', 'ACALD', 'TKT1', 'ACONTa')"
-"('RPI', 'TKT2', 'TALA', 'ALCD2x', 'LDH_D', 'ACALD')"
-"('RPI', 'TKT2', 'TALA', 'ALCD2x', 'LDH_D', 'TKT1')"
-"('RPI', 'TKT2', 'TALA', 'ALCD2x', 'LDH_D', 'ACONTa')"
-"('RPI', 'TKT2', 'TALA', 'ALCD2x', 'ACALD', 'TKT1')"
-"('RPI', 'TKT2', 'TALA', 'ALCD2x', 'ACALD', 'ACONTa')"
-"('RPI', 'TKT2', 'TALA', 'ALCD2x', 'TKT1', 'ACONTa')"
-"('RPI', 'TKT2', 'TALA', 'LDH_D', 'ACALD', 'TKT1')"
-"('RPI', 'TKT2', 'TALA', 'LDH_D', 'ACALD', 'ACONTa')"
-"('RPI', 'TKT2', 'TALA', 'LDH_D', 'TKT1', 'ACONTa')"
-"('RPI', 'TKT2', 'TALA', 'ACALD', 'TKT1', 'ACONTa')"
-"('RPI', 'TKT2', 'ALCD2x', 'LDH_D', 'ACALD', 'TKT1')"
-"('RPI', 'TKT2', 'ALCD2x', 'LDH_D', 'ACALD', 'ACONTa')"
-"('RPI', 'TKT2', 'ALCD2x', 'LDH_D', 'TKT1', 'ACONTa')"
-"('RPI', 'TKT2', 'ALCD2x', 'ACALD', 'TKT1', 'ACONTa')"
-"('RPI', 'TKT2', 'LDH_D', 'ACALD', 'TKT1', 'ACONTa')"
-"('RPI', 'RPE', 'TALA', 'ALCD2x', 'LDH_D', 'ACALD')"
-"('RPI', 'RPE', 'TALA', 'ALCD2x', 'LDH_D', 'TKT1')"
-"('RPI', 'RPE', 'TALA', 'ALCD2x', 'LDH_D', 'ACONTa')"
-"('RPI', 'RPE', 'TALA', 'ALCD2x', 'ACALD', 'TKT1')"
-"('RPI', 'RPE', 'TALA', 'ALCD2x', 'ACALD', 'ACONTa')"
-"('RPI', 'RPE', 'TALA', 'ALCD2x', 'TKT1', 'ACONTa')"
-"('RPI', 'RPE', 'TALA', 'LDH_D', 'ACALD', 'TKT1')"
-"('RPI', 'RPE', 'TALA', 'LDH_D', 'ACALD', 'ACONTa')"
-"('RPI', 'RPE', 'TALA', 'LDH_D', 'TKT1', 'ACONTa')"
-"('RPI', 'RPE', 'TALA', 'ACALD', 'TKT1', 'ACONTa')"
-"('RPI', 'RPE', 'ALCD2x', 'LDH_D', 'ACALD', 'TKT1')"
-"('RPI', 'RPE', 'ALCD2x', 'LDH_D', 'ACALD', 'ACONTa')"
-"('RPI', 'RPE', 'ALCD2x', 'LDH_D', 'TKT1', 'ACONTa')"
-"('RPI', 'RPE', 'ALCD2x', 'ACALD', 'TKT1', 'ACONTa')"
-"('RPI', 'RPE', 'LDH_D', 'ACALD', 'TKT1', 'ACONTa')"
-"('RPI', 'TALA', 'ALCD2x', 'LDH_D', 'ACALD', 'TKT1')"
-"('RPI', 'TALA', 'ALCD2x', 'LDH_D', 'ACALD', 'ACONTa')"
-"('RPI', 'TALA', 'ALCD2x', 'LDH_D', 'TKT1', 'ACONTa')"
-"('RPI', 'TALA', 'ALCD2x', 'ACALD', 'TKT1', 'ACONTa')"
-"('RPI', 'TALA', 'LDH_D', 'ACALD', 'TKT1', 'ACONTa')"
-"('RPI', 'ALCD2x', 'LDH_D', 'ACALD', 'TKT1', 'ACONTa')"
-"('TKT2', 'RPE', 'TALA', 'ALCD2x', 'LDH_D', 'ACALD')"
-"('TKT2', 'RPE', 'TALA', 'ALCD2x', 'LDH_D', 'TKT1')"
-"('TKT2', 'RPE', 'TALA', 'ALCD2x', 'LDH_D', 'ACONTa')"
-"('TKT2', 'RPE', 'TALA', 'ALCD2x', 'ACALD', 'TKT1')"
-"('TKT2', 'RPE', 'TALA', 'ALCD2x', 'ACALD', 'ACONTa')"
-"('TKT2', 'RPE', 'TALA', 'ALCD2x', 'TKT1', 'ACONTa')"
-"('TKT2', 'RPE', 'TALA', 'LDH_D', 'ACALD', 'TKT1')"
-"('TKT2', 'RPE', 'TALA', 'LDH_D', 'ACALD', 'ACONTa')"
-"('TKT2', 'RPE', 'TALA', 'LDH_D', 'TKT1', 'ACONTa')"
-"('TKT2', 'RPE', 'TALA', 'ACALD', 'TKT1', 'ACONTa')"
-"('TKT2', 'RPE', 'ALCD2x', 'LDH_D', 'ACALD', 'TKT1')"
-"('TKT2', 'RPE', 'ALCD2x', 'LDH_D', 'ACALD', 'ACONTa')"
-"('TKT2', 'RPE', 'ALCD2x', 'LDH_D', 'TKT1', 'ACONTa')"
-"('TKT2', 'RPE', 'ALCD2x', 'ACALD', 'TKT1', 'ACONTa')"
-"('TKT2', 'RPE', 'LDH_D', 'ACALD', 'TKT1', 'ACONTa')"
-"('TKT2', 'TALA', 'ALCD2x', 'LDH_D', 'ACALD', 'TKT1')"
-"('TKT2', 'TALA', 'ALCD2x', 'LDH_D', 'ACALD', 'ACONTa')"
-"('TKT2', 'TALA', 'ALCD2x', 'LDH_D', 'TKT1', 'ACONTa')"
-"('TKT2', 'TALA', 'ALCD2x', 'ACALD', 'TKT1', 'ACONTa')"
-"('TKT2', 'TALA', 'LDH_D', 'ACALD', 'TKT1', 'ACONTa')"
-"('TKT2', 'ALCD2x', 'LDH_D', 'ACALD', 'TKT1', 'ACONTa')"
-"('RPE', 'TALA', 'ALCD2x', 'LDH_D', 'ACALD', 'TKT1')"
-"('RPE', 'TALA', 'ALCD2x', 'LDH_D', 'ACALD', 'ACONTa')"
-"('RPE', 'TALA', 'ALCD2x', 'LDH_D', 'TKT1', 'ACONTa')"
-"('RPE', 'TALA', 'ALCD2x', 'ACALD', 'TKT1', 'ACONTa')"
-"('RPE', 'TALA', 'LDH_D', 'ACALD', 'TKT1', 'ACONTa')"
-"('RPE', 'ALCD2x', 'LDH_D', 'ACALD', 'TKT1', 'ACONTa')"
-"('TALA', 'ALCD2x', 'LDH_D', 'ACALD', 'TKT1', 'ACONTa')"
-"('PFL', 'RPI', 'TKT2', 'RPE', 'TALA', 'ALCD2x', 'LDH_D')"
-"('PFL', 'RPI', 'TKT2', 'RPE', 'TALA', 'ALCD2x', 'ACALD')"
-"('PFL', 'RPI', 'TKT2', 'RPE', 'TALA', 'ALCD2x', 'TKT1')"
-"('PFL', 'RPI', 'TKT2', 'RPE', 'TALA', 'ALCD2x', 'ACONTa')"
-"('PFL', 'RPI', 'TKT2', 'RPE', 'TALA', 'LDH_D', 'ACALD')"
-"('PFL', 'RPI', 'TKT2', 'RPE', 'TALA', 'LDH_D', 'TKT1')"
-"('PFL', 'RPI', 'TKT2', 'RPE', 'TALA', 'LDH_D', 'ACONTa')"
-"('PFL', 'RPI', 'TKT2', 'RPE', 'TALA', 'ACALD', 'TKT1')"
-"('PFL', 'RPI', 'TKT2', 'RPE', 'TALA', 'ACALD', 'ACONTa')"
-"('PFL', 'RPI', 'TKT2', 'RPE', 'TALA', 'TKT1', 'ACONTa')"
-"('PFL', 'RPI', 'TKT2', 'RPE', 'ALCD2x', 'LDH_D', 'ACALD')"
-"('PFL', 'RPI', 'TKT2', 'RPE', 'ALCD2x', 'LDH_D', 'TKT1')"
-"('PFL', 'RPI', 'TKT2', 'RPE', 'ALCD2x', 'LDH_D', 'ACONTa')"
-"('PFL', 'RPI', 'TKT2', 'RPE', 'ALCD2x', 'ACALD', 'TKT1')"
-"('PFL', 'RPI', 'TKT2', 'RPE', 'ALCD2x', 'ACALD', 'ACONTa')"
-"('PFL', 'RPI', 'TKT2', 'RPE', 'ALCD2x', 'TKT1', 'ACONTa')"
-"('PFL', 'RPI', 'TKT2', 'RPE', 'LDH_D', 'ACALD', 'TKT1')"
-"('PFL', 'RPI', 'TKT2', 'RPE', 'LDH_D', 'ACALD', 'ACONTa')"
-"('PFL', 'RPI', 'TKT2', 'RPE', 'LDH_D', 'TKT1', 'ACONTa')"
-"('PFL', 'RPI', 'TKT2', 'RPE', 'ACALD', 'TKT1', 'ACONTa')"
-"('PFL', 'RPI', 'TKT2', 'TALA', 'ALCD2x', 'LDH_D', 'ACALD')"
-"('PFL', 'RPI', 'TKT2', 'TALA', 'ALCD2x', 'LDH_D', 'TKT1')"
-"('PFL', 'RPI', 'TKT2', 'TALA', 'ALCD2x', 'LDH_D', 'ACONTa')"
-"('PFL', 'RPI', 'TKT2', 'TALA', 'ALCD2x', 'ACALD', 'TKT1')"
-"('PFL', 'RPI', 'TKT2', 'TALA', 'ALCD2x', 'ACALD', 'ACONTa')"
-"('PFL', 'RPI', 'TKT2', 'TALA', 'ALCD2x', 'TKT1', 'ACONTa')"
-"('PFL', 'RPI', 'TKT2', 'TALA', 'LDH_D', 'ACALD', 'TKT1')"
-"('PFL', 'RPI', 'TKT2', 'TALA', 'LDH_D', 'ACALD', 'ACONTa')"
-"('PFL', 'RPI', 'TKT2', 'TALA', 'LDH_D', 'TKT1', 'ACONTa')"
-"('PFL', 'RPI', 'TKT2', 'TALA', 'ACALD', 'TKT1', 'ACONTa')"
-"('PFL', 'RPI', 'TKT2', 'ALCD2x', 'LDH_D', 'ACALD', 'TKT1')"
-"('PFL', 'RPI', 'TKT2', 'ALCD2x', 'LDH_D', 'ACALD', 'ACONTa')"
-"('PFL', 'RPI', 'TKT2', 'ALCD2x', 'LDH_D', 'TKT1', 'ACONTa')"
-"('PFL', 'RPI', 'TKT2', 'ALCD2x', 'ACALD', 'TKT1', 'ACONTa')"
-"('PFL', 'RPI', 'TKT2', 'LDH_D', 'ACALD', 'TKT1', 'ACONTa')"
-"('PFL', 'RPI', 'RPE', 'TALA', 'ALCD2x', 'LDH_D', 'ACALD')"
-"('PFL', 'RPI', 'RPE', 'TALA', 'ALCD2x', 'LDH_D', 'TKT1')"
-"('PFL', 'RPI', 'RPE', 'TALA', 'ALCD2x', 'LDH_D', 'ACONTa')"
-"('PFL', 'RPI', 'RPE', 'TALA', 'ALCD2x', 'ACALD', 'TKT1')"
-"('PFL', 'RPI', 'RPE', 'TALA', 'ALCD2x', 'ACALD', 'ACONTa')"
-"('PFL', 'RPI', 'RPE', 'TALA', 'ALCD2x', 'TKT1', 'ACONTa')"
-"('PFL', 'RPI', 'RPE', 'TALA', 'LDH_D', 'ACALD', 'TKT1')"
-"('PFL', 'RPI', 'RPE', 'TALA', 'LDH_D', 'ACALD', 'ACONTa')"
-"('PFL', 'RPI', 'RPE', 'TALA', 'LDH_D', 'TKT1', 'ACONTa')"
-"('PFL', 'RPI', 'RPE', 'TALA', 'ACALD', 'TKT1', 'ACONTa')"
-"('PFL', 'RPI', 'RPE', 'ALCD2x', 'LDH_D', 'ACALD', 'TKT1')"
-"('PFL', 'RPI', 'RPE', 'ALCD2x', 'LDH_D', 'ACALD', 'ACONTa')"
-"('PFL', 'RPI', 'RPE', 'ALCD2x', 'LDH_D', 'TKT1', 'ACONTa')"
-"('PFL', 'RPI', 'RPE', 'ALCD2x', 'ACALD', 'TKT1', 'ACONTa')"
-"('PFL', 'RPI', 'RPE', 'LDH_D', 'ACALD', 'TKT1', 'ACONTa')"
-"('PFL', 'RPI', 'TALA', 'ALCD2x', 'LDH_D', 'ACALD', 'TKT1')"
-"('PFL', 'RPI', 'TALA', 'ALCD2x', 'LDH_D', 'ACALD', 'ACONTa')"
-"('PFL', 'RPI', 'TALA', 'ALCD2x', 'LDH_D', 'TKT1', 'ACONTa')"
-"('PFL', 'RPI', 'TALA', 'ALCD2x', 'ACALD', 'TKT1', 'ACONTa')"
-"('PFL', 'RPI', 'TALA', 'LDH_D', 'ACALD', 'TKT1', 'ACONTa')"
-"('PFL', 'RPI', 'ALCD2x', 'LDH_D', 'ACALD', 'TKT1', 'ACONTa')"
-"('PFL', 'TKT2', 'RPE', 'TALA', 'ALCD2x', 'LDH_D', 'ACALD')"
-"('PFL', 'TKT2', 'RPE', 'TALA', 'ALCD2x', 'LDH_D', 'TKT1')"
-"('PFL', 'TKT2', 'RPE', 'TALA', 'ALCD2x', 'LDH_D', 'ACONTa')"
-"('PFL', 'TKT2', 'RPE', 'TALA', 'ALCD2x', 'ACALD', 'TKT1')"
-"('PFL', 'TKT2', 'RPE', 'TALA', 'ALCD2x', 'ACALD', 'ACONTa')"
-"('PFL', 'TKT2', 'RPE', 'TALA', 'ALCD2x', 'TKT1', 'ACONTa')"
-"('PFL', 'TKT2', 'RPE', 'TALA', 'LDH_D', 'ACALD', 'TKT1')"
-"('PFL', 'TKT2', 'RPE', 'TALA', 'LDH_D', 'ACALD', 'ACONTa')"
-"('PFL', 'TKT2', 'RPE', 'TALA', 'LDH_D', 'TKT1', 'ACONTa')"
-"('PFL', 'TKT2', 'RPE', 'TALA', 'ACALD', 'TKT1', 'ACONTa')"
-"('PFL', 'TKT2', 'RPE', 'ALCD2x', 'LDH_D', 'ACALD', 'TKT1')"
-"('PFL', 'TKT2', 'RPE', 'ALCD2x', 'LDH_D', 'ACALD', 'ACONTa')"
-"('PFL', 'TKT2', 'RPE', 'ALCD2x', 'LDH_D', 'TKT1', 'ACONTa')"
-"('PFL', 'TKT2', 'RPE', 'ALCD2x', 'ACALD', 'TKT1', 'ACONTa')"
-"('PFL', 'TKT2', 'RPE', 'LDH_D', 'ACALD', 'TKT1', 'ACONTa')"
-"('PFL', 'TKT2', 'TALA', 'ALCD2x', 'LDH_D', 'ACALD', 'TKT1')"
-"('PFL', 'TKT2', 'TALA', 'ALCD2x', 'LDH_D', 'ACALD', 'ACONTa')"
-"('PFL', 'TKT2', 'TALA', 'ALCD2x', 'LDH_D', 'TKT1', 'ACONTa')"
-"('PFL', 'TKT2', 'TALA', 'ALCD2x', 'ACALD', 'TKT1', 'ACONTa')"
-"('PFL', 'TKT2', 'TALA', 'LDH_D', 'ACALD', 'TKT1', 'ACONTa')"
-"('PFL', 'TKT2', 'ALCD2x', 'LDH_D', 'ACALD', 'TKT1', 'ACONTa')"
-"('PFL', 'RPE', 'TALA', 'ALCD2x', 'LDH_D', 'ACALD', 'TKT1')"
-"('PFL', 'RPE', 'TALA', 'ALCD2x', 'LDH_D', 'ACALD', 'ACONTa')"
-"('PFL', 'RPE', 'TALA', 'ALCD2x', 'LDH_D', 'TKT1', 'ACONTa')"
-"('PFL', 'RPE', 'TALA', 'ALCD2x', 'ACALD', 'TKT1', 'ACONTa')"
-"('PFL', 'RPE', 'TALA', 'LDH_D', 'ACALD', 'TKT1', 'ACONTa')"
-"('PFL', 'RPE', 'ALCD2x', 'LDH_D', 'ACALD', 'TKT1', 'ACONTa')"
-"('PFL', 'TALA', 'ALCD2x', 'LDH_D', 'ACALD', 'TKT1', 'ACONTa')"
-"('RPI', 'TKT2', 'RPE', 'TALA', 'ALCD2x', 'LDH_D', 'ACALD')"
-"('RPI', 'TKT2', 'RPE', 'TALA', 'ALCD2x', 'LDH_D', 'TKT1')"
-"('RPI', 'TKT2', 'RPE', 'TALA', 'ALCD2x', 'LDH_D', 'ACONTa')"
-"('RPI', 'TKT2', 'RPE', 'TALA', 'ALCD2x', 'ACALD', 'TKT1')"
-"('RPI', 'TKT2', 'RPE', 'TALA', 'ALCD2x', 'ACALD', 'ACONTa')"
-"('RPI', 'TKT2', 'RPE', 'TALA', 'ALCD2x', 'TKT1', 'ACONTa')"
-"('RPI', 'TKT2', 'RPE', 'TALA', 'LDH_D', 'ACALD', 'TKT1')"
-"('RPI', 'TKT2', 'RPE', 'TALA', 'LDH_D', 'ACALD', 'ACONTa')"
-"('RPI', 'TKT2', 'RPE', 'TALA', 'LDH_D', 'TKT1', 'ACONTa')"
-"('RPI', 'TKT2', 'RPE', 'TALA', 'ACALD', 'TKT1', 'ACONTa')"
-"('RPI', 'TKT2', 'RPE', 'ALCD2x', 'LDH_D', 'ACALD', 'TKT1')"
-"('RPI', 'TKT2', 'RPE', 'ALCD2x', 'LDH_D', 'ACALD', 'ACONTa')"
-"('RPI', 'TKT2', 'RPE', 'ALCD2x', 'LDH_D', 'TKT1', 'ACONTa')"
-"('RPI', 'TKT2', 'RPE', 'ALCD2x', 'ACALD', 'TKT1', 'ACONTa')"
-"('RPI', 'TKT2', 'RPE', 'LDH_D', 'ACALD', 'TKT1', 'ACONTa')"
-"('RPI', 'TKT2', 'TALA', 'ALCD2x', 'LDH_D', 'ACALD', 'TKT1')"
-"('RPI', 'TKT2', 'TALA', 'ALCD2x', 'LDH_D', 'ACALD', 'ACONTa')"
-"('RPI', 'TKT2', 'TALA', 'ALCD2x', 'LDH_D', 'TKT1', 'ACONTa')"
-"('RPI', 'TKT2', 'TALA', 'ALCD2x', 'ACALD', 'TKT1', 'ACONTa')"
-"('RPI', 'TKT2', 'TALA', 'LDH_D', 'ACALD', 'TKT1', 'ACONTa')"
-"('RPI', 'TKT2', 'ALCD2x', 'LDH_D', 'ACALD', 'TKT1', 'ACONTa')"
-"('RPI', 'RPE', 'TALA', 'ALCD2x', 'LDH_D', 'ACALD', 'TKT1')"
-"('RPI', 'RPE', 'TALA', 'ALCD2x', 'LDH_D', 'ACALD', 'ACONTa')"
-"('RPI', 'RPE', 'TALA', 'ALCD2x', 'LDH_D', 'TKT1', 'ACONTa')"
-"('RPI', 'RPE', 'TALA', 'ALCD2x', 'ACALD', 'TKT1', 'ACONTa')"
-"('RPI', 'RPE', 'TALA', 'LDH_D', 'ACALD', 'TKT1', 'ACONTa')"
-"('RPI', 'RPE', 'ALCD2x', 'LDH_D', 'ACALD', 'TKT1', 'ACONTa')"
-"('RPI', 'TALA', 'ALCD2x', 'LDH_D', 'ACALD', 'TKT1', 'ACONTa')"
-"('TKT2', 'RPE', 'TALA', 'ALCD2x', 'LDH_D', 'ACALD', 'TKT1')"
-"('TKT2', 'RPE', 'TALA', 'ALCD2x', 'LDH_D', 'ACALD', 'ACONTa')"
-"('TKT2', 'RPE', 'TALA', 'ALCD2x', 'LDH_D', 'TKT1', 'ACONTa')"
-"('TKT2', 'RPE', 'TALA', 'ALCD2x', 'ACALD', 'TKT1', 'ACONTa')"
-"('TKT2', 'RPE', 'TALA', 'LDH_D', 'ACALD', 'TKT1', 'ACONTa')"
-"('TKT2', 'RPE', 'ALCD2x', 'LDH_D', 'ACALD', 'TKT1', 'ACONTa')"
-"('TKT2', 'TALA', 'ALCD2x', 'LDH_D', 'ACALD', 'TKT1', 'ACONTa')"
-"('RPE', 'TALA', 'ALCD2x', 'LDH_D', 'ACALD', 'TKT1', 'ACONTa')"
-"('PFL', 'RPI', 'TKT2', 'RPE', 'TALA', 'ALCD2x', 'LDH_D', 'ACALD')"
-"('PFL', 'RPI', 'TKT2', 'RPE', 'TALA', 'ALCD2x', 'LDH_D', 'TKT1')"
-"('PFL', 'RPI', 'TKT2', 'RPE', 'TALA', 'ALCD2x', 'LDH_D', 'ACONTa')"
-"('PFL', 'RPI', 'TKT2', 'RPE', 'TALA', 'ALCD2x', 'ACALD', 'TKT1')"
-"('PFL', 'RPI', 'TKT2', 'RPE', 'TALA', 'ALCD2x', 'ACALD', 'ACONTa')"
-"('PFL', 'RPI', 'TKT2', 'RPE', 'TALA', 'ALCD2x', 'TKT1', 'ACONTa')"
-"('PFL', 'RPI', 'TKT2', 'RPE', 'TALA', 'LDH_D', 'ACALD', 'TKT1')"
-"('PFL', 'RPI', 'TKT2', 'RPE', 'TALA', 'LDH_D', 'ACALD', 'ACONTa')"
-"('PFL', 'RPI', 'TKT2', 'RPE', 'TALA', 'LDH_D', 'TKT1', 'ACONTa')"
-"('PFL', 'RPI', 'TKT2', 'RPE', 'TALA', 'ACALD', 'TKT1', 'ACONTa')"
-"('PFL', 'RPI', 'TKT2', 'RPE', 'ALCD2x', 'LDH_D', 'ACALD', 'TKT1')"
-"('PFL', 'RPI', 'TKT2', 'RPE', 'ALCD2x', 'LDH_D', 'ACALD', 'ACONTa')"
-"('PFL', 'RPI', 'TKT2', 'RPE', 'ALCD2x', 'LDH_D', 'TKT1', 'ACONTa')"
-"('PFL', 'RPI', 'TKT2', 'RPE', 'ALCD2x', 'ACALD', 'TKT1', 'ACONTa')"
-"('PFL', 'RPI', 'TKT2', 'RPE', 'LDH_D', 'ACALD', 'TKT1', 'ACONTa')"
-"('PFL', 'RPI', 'TKT2', 'TALA', 'ALCD2x', 'LDH_D', 'ACALD', 'TKT1')"
-"('PFL', 'RPI', 'TKT2', 'TALA', 'ALCD2x', 'LDH_D', 'ACALD', 'ACONTa')"
-"('PFL', 'RPI', 'TKT2', 'TALA', 'ALCD2x', 'LDH_D', 'TKT1', 'ACONTa')"
-"('PFL', 'RPI', 'TKT2', 'TALA', 'ALCD2x', 'ACALD', 'TKT1', 'ACONTa')"
-"('PFL', 'RPI', 'TKT2', 'TALA', 'LDH_D', 'ACALD', 'TKT1', 'ACONTa')"
-"('PFL', 'RPI', 'TKT2', 'ALCD2x', 'LDH_D', 'ACALD', 'TKT1', 'ACONTa')"
-"('PFL', 'RPI', 'RPE', 'TALA', 'ALCD2x', 'LDH_D', 'ACALD', 'TKT1')"
-"('PFL', 'RPI', 'RPE', 'TALA', 'ALCD2x', 'LDH_D', 'ACALD', 'ACONTa')"
-"('PFL', 'RPI', 'RPE', 'TALA', 'ALCD2x', 'LDH_D', 'TKT1', 'ACONTa')"
-"('PFL', 'RPI', 'RPE', 'TALA', 'ALCD2x', 'ACALD', 'TKT1', 'ACONTa')"
-"('PFL', 'RPI', 'RPE', 'TALA', 'LDH_D', 'ACALD', 'TKT1', 'ACONTa')"
-"('PFL', 'RPI', 'RPE', 'ALCD2x', 'LDH_D', 'ACALD', 'TKT1', 'ACONTa')"
-"('PFL', 'RPI', 'TALA', 'ALCD2x', 'LDH_D', 'ACALD', 'TKT1', 'ACONTa')"
-"('PFL', 'TKT2', 'RPE', 'TALA', 'ALCD2x', 'LDH_D', 'ACALD', 'TKT1')"
-"('PFL', 'TKT2', 'RPE', 'TALA', 'ALCD2x', 'LDH_D', 'ACALD', 'ACONTa')"
-"('PFL', 'TKT2', 'RPE', 'TALA', 'ALCD2x', 'LDH_D', 'TKT1', 'ACONTa')"
-"('PFL', 'TKT2', 'RPE', 'TALA', 'ALCD2x', 'ACALD', 'TKT1', 'ACONTa')"
-"('PFL', 'TKT2', 'RPE', 'TALA', 'LDH_D', 'ACALD', 'TKT1', 'ACONTa')"
-"('PFL', 'TKT2', 'RPE', 'ALCD2x', 'LDH_D', 'ACALD', 'TKT1', 'ACONTa')"
-"('PFL', 'TKT2', 'TALA', 'ALCD2x', 'LDH_D', 'ACALD', 'TKT1', 'ACONTa')"
-"('PFL', 'RPE', 'TALA', 'ALCD2x', 'LDH_D', 'ACALD', 'TKT1', 'ACONTa')"
-"('RPI', 'TKT2', 'RPE', 'TALA', 'ALCD2x', 'LDH_D', 'ACALD', 'TKT1')"
-"('RPI', 'TKT2', 'RPE', 'TALA', 'ALCD2x', 'LDH_D', 'ACALD', 'ACONTa')"
-"('RPI', 'TKT2', 'RPE', 'TALA', 'ALCD2x', 'LDH_D', 'TKT1', 'ACONTa')"
-"('RPI', 'TKT2', 'RPE', 'TALA', 'ALCD2x', 'ACALD', 'TKT1', 'ACONTa')"
-"('RPI', 'TKT2', 'RPE', 'TALA', 'LDH_D', 'ACALD', 'TKT1', 'ACONTa')"
-"('RPI', 'TKT2', 'RPE', 'ALCD2x', 'LDH_D', 'ACALD', 'TKT1', 'ACONTa')"
-"('RPI', 'TKT2', 'TALA', 'ALCD2x', 'LDH_D', 'ACALD', 'TKT1', 'ACONTa')"
-"('RPI', 'RPE', 'TALA', 'ALCD2x', 'LDH_D', 'ACALD', 'TKT1', 'ACONTa')"
-"('TKT2', 'RPE', 'TALA', 'ALCD2x', 'LDH_D', 'ACALD', 'TKT1', 'ACONTa')"
-"('PFL', 'RPI', 'TKT2', 'RPE', 'TALA', 'ALCD2x', 'LDH_D', 'ACALD', 'TKT1')"
-"('PFL', 'RPI', 'TKT2', 'RPE', 'TALA', 'ALCD2x', 'LDH_D', 'ACALD', 'ACONTa')"
-"('PFL', 'RPI', 'TKT2', 'RPE', 'TALA', 'ALCD2x', 'LDH_D', 'TKT1', 'ACONTa')"
-"('PFL', 'RPI', 'TKT2', 'RPE', 'TALA', 'ALCD2x', 'ACALD', 'TKT1', 'ACONTa')"
-"('PFL', 'RPI', 'TKT2', 'RPE', 'TALA', 'LDH_D', 'ACALD', 'TKT1', 'ACONTa')"
-"('PFL', 'RPI', 'TKT2', 'RPE', 'ALCD2x', 'LDH_D', 'ACALD', 'TKT1', 'ACONTa')"
-"('PFL', 'RPI', 'TKT2', 'TALA', 'ALCD2x', 'LDH_D', 'ACALD', 'TKT1', 'ACONTa')"
-"('PFL', 'RPI', 'RPE', 'TALA', 'ALCD2x', 'LDH_D', 'ACALD', 'TKT1', 'ACONTa')"
-"('PFL', 'TKT2', 'RPE', 'TALA', 'ALCD2x', 'LDH_D', 'ACALD', 'TKT1', 'ACONTa')"
-"('RPI', 'TKT2', 'RPE', 'TALA', 'ALCD2x', 'LDH_D', 'ACALD', 'TKT1', 'ACONTa')"
-"('PFL', 'RPI', 'TKT2', 'RPE', 'TALA', 'ALCD2x', 'LDH_D', 'ACALD', 'TKT1', 'ACONTa')"
+PFL
+RPI
+TKT2
+RPE
+TALA
+ALCD2x
+LDH_D
+ACALD
+TKT1
+ACONTa
+PFL, RPI
+PFL, TKT2
+PFL, RPE
+PFL, TALA
+PFL, ALCD2x
+PFL, LDH_D
+PFL, ACALD
+PFL, TKT1
+PFL, ACONTa
+RPI, TKT2
+RPI, RPE
+RPI, TALA
+RPI, ALCD2x
+RPI, LDH_D
+RPI, ACALD
+RPI, TKT1
+RPI, ACONTa
+TKT2, RPE
+TKT2, TALA
+TKT2, ALCD2x
+TKT2, LDH_D
+TKT2, ACALD
+TKT2, TKT1
+TKT2, ACONTa
+RPE, TALA
+RPE, ALCD2x
+RPE, LDH_D
+RPE, ACALD
+RPE, TKT1
+RPE, ACONTa
+TALA, ALCD2x
+TALA, LDH_D
+TALA, ACALD
+TALA, TKT1
+TALA, ACONTa
+ALCD2x, LDH_D
+ALCD2x, ACALD
+ALCD2x, TKT1
+ALCD2x, ACONTa
+LDH_D, ACALD
+LDH_D, TKT1
+LDH_D, ACONTa
+ACALD, TKT1
+ACALD, ACONTa
+TKT1, ACONTa
+PFL, RPI, TKT2
+PFL, RPI, RPE
+PFL, RPI, TALA
+PFL, RPI, ALCD2x
+PFL, RPI, LDH_D
+PFL, RPI, ACALD
+PFL, RPI, TKT1
+PFL, RPI, ACONTa
+PFL, TKT2, RPE
+PFL, TKT2, TALA
+PFL, TKT2, ALCD2x
+PFL, TKT2, LDH_D
+PFL, TKT2, ACALD
+PFL, TKT2, TKT1
+PFL, TKT2, ACONTa
+PFL, RPE, TALA
+PFL, RPE, ALCD2x
+PFL, RPE, LDH_D
+PFL, RPE, ACALD
+PFL, RPE, TKT1
+PFL, RPE, ACONTa
+PFL, TALA, ALCD2x
+PFL, TALA, LDH_D
+PFL, TALA, ACALD
+PFL, TALA, TKT1
+PFL, TALA, ACONTa
+PFL, ALCD2x, LDH_D
+PFL, ALCD2x, ACALD
+PFL, ALCD2x, TKT1
+PFL, ALCD2x, ACONTa
+PFL, LDH_D, ACALD
+PFL, LDH_D, TKT1
+PFL, LDH_D, ACONTa
+PFL, ACALD, TKT1
+PFL, ACALD, ACONTa
+PFL, TKT1, ACONTa
+RPI, TKT2, RPE
+RPI, TKT2, TALA
+RPI, TKT2, ALCD2x
+RPI, TKT2, LDH_D
+RPI, TKT2, ACALD
+RPI, TKT2, TKT1
+RPI, TKT2, ACONTa
+RPI, RPE, TALA
+RPI, RPE, ALCD2x
+RPI, RPE, LDH_D
+RPI, RPE, ACALD
+RPI, RPE, TKT1
+RPI, RPE, ACONTa
+RPI, TALA, ALCD2x
+RPI, TALA, LDH_D
+RPI, TALA, ACALD
+RPI, TALA, TKT1
+RPI, TALA, ACONTa
+RPI, ALCD2x, LDH_D
+RPI, ALCD2x, ACALD
+RPI, ALCD2x, TKT1
+RPI, ALCD2x, ACONTa
+RPI, LDH_D, ACALD
+RPI, LDH_D, TKT1
+RPI, LDH_D, ACONTa
+RPI, ACALD, TKT1
+RPI, ACALD, ACONTa
+RPI, TKT1, ACONTa
+TKT2, RPE, TALA
+TKT2, RPE, ALCD2x
+TKT2, RPE, LDH_D
+TKT2, RPE, ACALD
+TKT2, RPE, TKT1
+TKT2, RPE, ACONTa
+TKT2, TALA, ALCD2x
+TKT2, TALA, LDH_D
+TKT2, TALA, ACALD
+TKT2, TALA, TKT1
+TKT2, TALA, ACONTa
+TKT2, ALCD2x, LDH_D
+TKT2, ALCD2x, ACALD
+TKT2, ALCD2x, TKT1
+TKT2, ALCD2x, ACONTa
+TKT2, LDH_D, ACALD
+TKT2, LDH_D, TKT1
+TKT2, LDH_D, ACONTa
+TKT2, ACALD, TKT1
+TKT2, ACALD, ACONTa
+TKT2, TKT1, ACONTa
+RPE, TALA, ALCD2x
+RPE, TALA, LDH_D
+RPE, TALA, ACALD
+RPE, TALA, TKT1
+RPE, TALA, ACONTa
+RPE, ALCD2x, LDH_D
+RPE, ALCD2x, ACALD
+RPE, ALCD2x, TKT1
+RPE, ALCD2x, ACONTa
+RPE, LDH_D, ACALD
+RPE, LDH_D, TKT1
+RPE, LDH_D, ACONTa
+RPE, ACALD, TKT1
+RPE, ACALD, ACONTa
+RPE, TKT1, ACONTa
+TALA, ALCD2x, LDH_D
+TALA, ALCD2x, ACALD
+TALA, ALCD2x, TKT1
+TALA, ALCD2x, ACONTa
+TALA, LDH_D, ACALD
+TALA, LDH_D, TKT1
+TALA, LDH_D, ACONTa
+TALA, ACALD, TKT1
+TALA, ACALD, ACONTa
+TALA, TKT1, ACONTa
+ALCD2x, LDH_D, ACALD
+ALCD2x, LDH_D, TKT1
+ALCD2x, LDH_D, ACONTa
+ALCD2x, ACALD, TKT1
+ALCD2x, ACALD, ACONTa
+ALCD2x, TKT1, ACONTa
+LDH_D, ACALD, TKT1
+LDH_D, ACALD, ACONTa
+LDH_D, TKT1, ACONTa
+ACALD, TKT1, ACONTa
+PFL, RPI, TKT2, RPE
+PFL, RPI, TKT2, TALA
+PFL, RPI, TKT2, ALCD2x
+PFL, RPI, TKT2, LDH_D
+PFL, RPI, TKT2, ACALD
+PFL, RPI, TKT2, TKT1
+PFL, RPI, TKT2, ACONTa
+PFL, RPI, RPE, TALA
+PFL, RPI, RPE, ALCD2x
+PFL, RPI, RPE, LDH_D
+PFL, RPI, RPE, ACALD
+PFL, RPI, RPE, TKT1
+PFL, RPI, RPE, ACONTa
+PFL, RPI, TALA, ALCD2x
+PFL, RPI, TALA, LDH_D
+PFL, RPI, TALA, ACALD
+PFL, RPI, TALA, TKT1
+PFL, RPI, TALA, ACONTa
+PFL, RPI, ALCD2x, LDH_D
+PFL, RPI, ALCD2x, ACALD
+PFL, RPI, ALCD2x, TKT1
+PFL, RPI, ALCD2x, ACONTa
+PFL, RPI, LDH_D, ACALD
+PFL, RPI, LDH_D, TKT1
+PFL, RPI, LDH_D, ACONTa
+PFL, RPI, ACALD, TKT1
+PFL, RPI, ACALD, ACONTa
+PFL, RPI, TKT1, ACONTa
+PFL, TKT2, RPE, TALA
+PFL, TKT2, RPE, ALCD2x
+PFL, TKT2, RPE, LDH_D
+PFL, TKT2, RPE, ACALD
+PFL, TKT2, RPE, TKT1
+PFL, TKT2, RPE, ACONTa
+PFL, TKT2, TALA, ALCD2x
+PFL, TKT2, TALA, LDH_D
+PFL, TKT2, TALA, ACALD
+PFL, TKT2, TALA, TKT1
+PFL, TKT2, TALA, ACONTa
+PFL, TKT2, ALCD2x, LDH_D
+PFL, TKT2, ALCD2x, ACALD
+PFL, TKT2, ALCD2x, TKT1
+PFL, TKT2, ALCD2x, ACONTa
+PFL, TKT2, LDH_D, ACALD
+PFL, TKT2, LDH_D, TKT1
+PFL, TKT2, LDH_D, ACONTa
+PFL, TKT2, ACALD, TKT1
+PFL, TKT2, ACALD, ACONTa
+PFL, TKT2, TKT1, ACONTa
+PFL, RPE, TALA, ALCD2x
+PFL, RPE, TALA, LDH_D
+PFL, RPE, TALA, ACALD
+PFL, RPE, TALA, TKT1
+PFL, RPE, TALA, ACONTa
+PFL, RPE, ALCD2x, LDH_D
+PFL, RPE, ALCD2x, ACALD
+PFL, RPE, ALCD2x, TKT1
+PFL, RPE, ALCD2x, ACONTa
+PFL, RPE, LDH_D, ACALD
+PFL, RPE, LDH_D, TKT1
+PFL, RPE, LDH_D, ACONTa
+PFL, RPE, ACALD, TKT1
+PFL, RPE, ACALD, ACONTa
+PFL, RPE, TKT1, ACONTa
+PFL, TALA, ALCD2x, LDH_D
+PFL, TALA, ALCD2x, ACALD
+PFL, TALA, ALCD2x, TKT1
+PFL, TALA, ALCD2x, ACONTa
+PFL, TALA, LDH_D, ACALD
+PFL, TALA, LDH_D, TKT1
+PFL, TALA, LDH_D, ACONTa
+PFL, TALA, ACALD, TKT1
+PFL, TALA, ACALD, ACONTa
+PFL, TALA, TKT1, ACONTa
+PFL, ALCD2x, LDH_D, ACALD
+PFL, ALCD2x, LDH_D, TKT1
+PFL, ALCD2x, LDH_D, ACONTa
+PFL, ALCD2x, ACALD, TKT1
+PFL, ALCD2x, ACALD, ACONTa
+PFL, ALCD2x, TKT1, ACONTa
+PFL, LDH_D, ACALD, TKT1
+PFL, LDH_D, ACALD, ACONTa
+PFL, LDH_D, TKT1, ACONTa
+PFL, ACALD, TKT1, ACONTa
+RPI, TKT2, RPE, TALA
+RPI, TKT2, RPE, ALCD2x
+RPI, TKT2, RPE, LDH_D
+RPI, TKT2, RPE, ACALD
+RPI, TKT2, RPE, TKT1
+RPI, TKT2, RPE, ACONTa
+RPI, TKT2, TALA, ALCD2x
+RPI, TKT2, TALA, LDH_D
+RPI, TKT2, TALA, ACALD
+RPI, TKT2, TALA, TKT1
+RPI, TKT2, TALA, ACONTa
+RPI, TKT2, ALCD2x, LDH_D
+RPI, TKT2, ALCD2x, ACALD
+RPI, TKT2, ALCD2x, TKT1
+RPI, TKT2, ALCD2x, ACONTa
+RPI, TKT2, LDH_D, ACALD
+RPI, TKT2, LDH_D, TKT1
+RPI, TKT2, LDH_D, ACONTa
+RPI, TKT2, ACALD, TKT1
+RPI, TKT2, ACALD, ACONTa
+RPI, TKT2, TKT1, ACONTa
+RPI, RPE, TALA, ALCD2x
+RPI, RPE, TALA, LDH_D
+RPI, RPE, TALA, ACALD
+RPI, RPE, TALA, TKT1
+RPI, RPE, TALA, ACONTa
+RPI, RPE, ALCD2x, LDH_D
+RPI, RPE, ALCD2x, ACALD
+RPI, RPE, ALCD2x, TKT1
+RPI, RPE, ALCD2x, ACONTa
+RPI, RPE, LDH_D, ACALD
+RPI, RPE, LDH_D, TKT1
+RPI, RPE, LDH_D, ACONTa
+RPI, RPE, ACALD, TKT1
+RPI, RPE, ACALD, ACONTa
+RPI, RPE, TKT1, ACONTa
+RPI, TALA, ALCD2x, LDH_D
+RPI, TALA, ALCD2x, ACALD
+RPI, TALA, ALCD2x, TKT1
+RPI, TALA, ALCD2x, ACONTa
+RPI, TALA, LDH_D, ACALD
+RPI, TALA, LDH_D, TKT1
+RPI, TALA, LDH_D, ACONTa
+RPI, TALA, ACALD, TKT1
+RPI, TALA, ACALD, ACONTa
+RPI, TALA, TKT1, ACONTa
+RPI, ALCD2x, LDH_D, ACALD
+RPI, ALCD2x, LDH_D, TKT1
+RPI, ALCD2x, LDH_D, ACONTa
+RPI, ALCD2x, ACALD, TKT1
+RPI, ALCD2x, ACALD, ACONTa
+RPI, ALCD2x, TKT1, ACONTa
+RPI, LDH_D, ACALD, TKT1
+RPI, LDH_D, ACALD, ACONTa
+RPI, LDH_D, TKT1, ACONTa
+RPI, ACALD, TKT1, ACONTa
+TKT2, RPE, TALA, ALCD2x
+TKT2, RPE, TALA, LDH_D
+TKT2, RPE, TALA, ACALD
+TKT2, RPE, TALA, TKT1
+TKT2, RPE, TALA, ACONTa
+TKT2, RPE, ALCD2x, LDH_D
+TKT2, RPE, ALCD2x, ACALD
+TKT2, RPE, ALCD2x, TKT1
+TKT2, RPE, ALCD2x, ACONTa
+TKT2, RPE, LDH_D, ACALD
+TKT2, RPE, LDH_D, TKT1
+TKT2, RPE, LDH_D, ACONTa
+TKT2, RPE, ACALD, TKT1
+TKT2, RPE, ACALD, ACONTa
+TKT2, RPE, TKT1, ACONTa
+TKT2, TALA, ALCD2x, LDH_D
+TKT2, TALA, ALCD2x, ACALD
+TKT2, TALA, ALCD2x, TKT1
+TKT2, TALA, ALCD2x, ACONTa
+TKT2, TALA, LDH_D, ACALD
+TKT2, TALA, LDH_D, TKT1
+TKT2, TALA, LDH_D, ACONTa
+TKT2, TALA, ACALD, TKT1
+TKT2, TALA, ACALD, ACONTa
+TKT2, TALA, TKT1, ACONTa
+TKT2, ALCD2x, LDH_D, ACALD
+TKT2, ALCD2x, LDH_D, TKT1
+TKT2, ALCD2x, LDH_D, ACONTa
+TKT2, ALCD2x, ACALD, TKT1
+TKT2, ALCD2x, ACALD, ACONTa
+TKT2, ALCD2x, TKT1, ACONTa
+TKT2, LDH_D, ACALD, TKT1
+TKT2, LDH_D, ACALD, ACONTa
+TKT2, LDH_D, TKT1, ACONTa
+TKT2, ACALD, TKT1, ACONTa
+RPE, TALA, ALCD2x, LDH_D
+RPE, TALA, ALCD2x, ACALD
+RPE, TALA, ALCD2x, TKT1
+RPE, TALA, ALCD2x, ACONTa
+RPE, TALA, LDH_D, ACALD
+RPE, TALA, LDH_D, TKT1
+RPE, TALA, LDH_D, ACONTa
+RPE, TALA, ACALD, TKT1
+RPE, TALA, ACALD, ACONTa
+RPE, TALA, TKT1, ACONTa
+RPE, ALCD2x, LDH_D, ACALD
+RPE, ALCD2x, LDH_D, TKT1
+RPE, ALCD2x, LDH_D, ACONTa
+RPE, ALCD2x, ACALD, TKT1
+RPE, ALCD2x, ACALD, ACONTa
+RPE, ALCD2x, TKT1, ACONTa
+RPE, LDH_D, ACALD, TKT1
+RPE, LDH_D, ACALD, ACONTa
+RPE, LDH_D, TKT1, ACONTa
+RPE, ACALD, TKT1, ACONTa
+TALA, ALCD2x, LDH_D, ACALD
+TALA, ALCD2x, LDH_D, TKT1
+TALA, ALCD2x, LDH_D, ACONTa
+TALA, ALCD2x, ACALD, TKT1
+TALA, ALCD2x, ACALD, ACONTa
+TALA, ALCD2x, TKT1, ACONTa
+TALA, LDH_D, ACALD, TKT1
+TALA, LDH_D, ACALD, ACONTa
+TALA, LDH_D, TKT1, ACONTa
+TALA, ACALD, TKT1, ACONTa
+ALCD2x, LDH_D, ACALD, TKT1
+ALCD2x, LDH_D, ACALD, ACONTa
+ALCD2x, LDH_D, TKT1, ACONTa
+ALCD2x, ACALD, TKT1, ACONTa
+LDH_D, ACALD, TKT1, ACONTa
+PFL, RPI, TKT2, RPE, TALA
+PFL, RPI, TKT2, RPE, ALCD2x
+PFL, RPI, TKT2, RPE, LDH_D
+PFL, RPI, TKT2, RPE, ACALD
+PFL, RPI, TKT2, RPE, TKT1
+PFL, RPI, TKT2, RPE, ACONTa
+PFL, RPI, TKT2, TALA, ALCD2x
+PFL, RPI, TKT2, TALA, LDH_D
+PFL, RPI, TKT2, TALA, ACALD
+PFL, RPI, TKT2, TALA, TKT1
+PFL, RPI, TKT2, TALA, ACONTa
+PFL, RPI, TKT2, ALCD2x, LDH_D
+PFL, RPI, TKT2, ALCD2x, ACALD
+PFL, RPI, TKT2, ALCD2x, TKT1
+PFL, RPI, TKT2, ALCD2x, ACONTa
+PFL, RPI, TKT2, LDH_D, ACALD
+PFL, RPI, TKT2, LDH_D, TKT1
+PFL, RPI, TKT2, LDH_D, ACONTa
+PFL, RPI, TKT2, ACALD, TKT1
+PFL, RPI, TKT2, ACALD, ACONTa
+PFL, RPI, TKT2, TKT1, ACONTa
+PFL, RPI, RPE, TALA, ALCD2x
+PFL, RPI, RPE, TALA, LDH_D
+PFL, RPI, RPE, TALA, ACALD
+PFL, RPI, RPE, TALA, TKT1
+PFL, RPI, RPE, TALA, ACONTa
+PFL, RPI, RPE, ALCD2x, LDH_D
+PFL, RPI, RPE, ALCD2x, ACALD
+PFL, RPI, RPE, ALCD2x, TKT1
+PFL, RPI, RPE, ALCD2x, ACONTa
+PFL, RPI, RPE, LDH_D, ACALD
+PFL, RPI, RPE, LDH_D, TKT1
+PFL, RPI, RPE, LDH_D, ACONTa
+PFL, RPI, RPE, ACALD, TKT1
+PFL, RPI, RPE, ACALD, ACONTa
+PFL, RPI, RPE, TKT1, ACONTa
+PFL, RPI, TALA, ALCD2x, LDH_D
+PFL, RPI, TALA, ALCD2x, ACALD
+PFL, RPI, TALA, ALCD2x, TKT1
+PFL, RPI, TALA, ALCD2x, ACONTa
+PFL, RPI, TALA, LDH_D, ACALD
+PFL, RPI, TALA, LDH_D, TKT1
+PFL, RPI, TALA, LDH_D, ACONTa
+PFL, RPI, TALA, ACALD, TKT1
+PFL, RPI, TALA, ACALD, ACONTa
+PFL, RPI, TALA, TKT1, ACONTa
+PFL, RPI, ALCD2x, LDH_D, ACALD
+PFL, RPI, ALCD2x, LDH_D, TKT1
+PFL, RPI, ALCD2x, LDH_D, ACONTa
+PFL, RPI, ALCD2x, ACALD, TKT1
+PFL, RPI, ALCD2x, ACALD, ACONTa
+PFL, RPI, ALCD2x, TKT1, ACONTa
+PFL, RPI, LDH_D, ACALD, TKT1
+PFL, RPI, LDH_D, ACALD, ACONTa
+PFL, RPI, LDH_D, TKT1, ACONTa
+PFL, RPI, ACALD, TKT1, ACONTa
+PFL, TKT2, RPE, TALA, ALCD2x
+PFL, TKT2, RPE, TALA, LDH_D
+PFL, TKT2, RPE, TALA, ACALD
+PFL, TKT2, RPE, TALA, TKT1
+PFL, TKT2, RPE, TALA, ACONTa
+PFL, TKT2, RPE, ALCD2x, LDH_D
+PFL, TKT2, RPE, ALCD2x, ACALD
+PFL, TKT2, RPE, ALCD2x, TKT1
+PFL, TKT2, RPE, ALCD2x, ACONTa
+PFL, TKT2, RPE, LDH_D, ACALD
+PFL, TKT2, RPE, LDH_D, TKT1
+PFL, TKT2, RPE, LDH_D, ACONTa
+PFL, TKT2, RPE, ACALD, TKT1
+PFL, TKT2, RPE, ACALD, ACONTa
+PFL, TKT2, RPE, TKT1, ACONTa
+PFL, TKT2, TALA, ALCD2x, LDH_D
+PFL, TKT2, TALA, ALCD2x, ACALD
+PFL, TKT2, TALA, ALCD2x, TKT1
+PFL, TKT2, TALA, ALCD2x, ACONTa
+PFL, TKT2, TALA, LDH_D, ACALD
+PFL, TKT2, TALA, LDH_D, TKT1
+PFL, TKT2, TALA, LDH_D, ACONTa
+PFL, TKT2, TALA, ACALD, TKT1
+PFL, TKT2, TALA, ACALD, ACONTa
+PFL, TKT2, TALA, TKT1, ACONTa
+PFL, TKT2, ALCD2x, LDH_D, ACALD
+PFL, TKT2, ALCD2x, LDH_D, TKT1
+PFL, TKT2, ALCD2x, LDH_D, ACONTa
+PFL, TKT2, ALCD2x, ACALD, TKT1
+PFL, TKT2, ALCD2x, ACALD, ACONTa
+PFL, TKT2, ALCD2x, TKT1, ACONTa
+PFL, TKT2, LDH_D, ACALD, TKT1
+PFL, TKT2, LDH_D, ACALD, ACONTa
+PFL, TKT2, LDH_D, TKT1, ACONTa
+PFL, TKT2, ACALD, TKT1, ACONTa
+PFL, RPE, TALA, ALCD2x, LDH_D
+PFL, RPE, TALA, ALCD2x, ACALD
+PFL, RPE, TALA, ALCD2x, TKT1
+PFL, RPE, TALA, ALCD2x, ACONTa
+PFL, RPE, TALA, LDH_D, ACALD
+PFL, RPE, TALA, LDH_D, TKT1
+PFL, RPE, TALA, LDH_D, ACONTa
+PFL, RPE, TALA, ACALD, TKT1
+PFL, RPE, TALA, ACALD, ACONTa
+PFL, RPE, TALA, TKT1, ACONTa
+PFL, RPE, ALCD2x, LDH_D, ACALD
+PFL, RPE, ALCD2x, LDH_D, TKT1
+PFL, RPE, ALCD2x, LDH_D, ACONTa
+PFL, RPE, ALCD2x, ACALD, TKT1
+PFL, RPE, ALCD2x, ACALD, ACONTa
+PFL, RPE, ALCD2x, TKT1, ACONTa
+PFL, RPE, LDH_D, ACALD, TKT1
+PFL, RPE, LDH_D, ACALD, ACONTa
+PFL, RPE, LDH_D, TKT1, ACONTa
+PFL, RPE, ACALD, TKT1, ACONTa
+PFL, TALA, ALCD2x, LDH_D, ACALD
+PFL, TALA, ALCD2x, LDH_D, TKT1
+PFL, TALA, ALCD2x, LDH_D, ACONTa
+PFL, TALA, ALCD2x, ACALD, TKT1
+PFL, TALA, ALCD2x, ACALD, ACONTa
+PFL, TALA, ALCD2x, TKT1, ACONTa
+PFL, TALA, LDH_D, ACALD, TKT1
+PFL, TALA, LDH_D, ACALD, ACONTa
+PFL, TALA, LDH_D, TKT1, ACONTa
+PFL, TALA, ACALD, TKT1, ACONTa
+PFL, ALCD2x, LDH_D, ACALD, TKT1
+PFL, ALCD2x, LDH_D, ACALD, ACONTa
+PFL, ALCD2x, LDH_D, TKT1, ACONTa
+PFL, ALCD2x, ACALD, TKT1, ACONTa
+PFL, LDH_D, ACALD, TKT1, ACONTa
+RPI, TKT2, RPE, TALA, ALCD2x
+RPI, TKT2, RPE, TALA, LDH_D
+RPI, TKT2, RPE, TALA, ACALD
+RPI, TKT2, RPE, TALA, TKT1
+RPI, TKT2, RPE, TALA, ACONTa
+RPI, TKT2, RPE, ALCD2x, LDH_D
+RPI, TKT2, RPE, ALCD2x, ACALD
+RPI, TKT2, RPE, ALCD2x, TKT1
+RPI, TKT2, RPE, ALCD2x, ACONTa
+RPI, TKT2, RPE, LDH_D, ACALD
+RPI, TKT2, RPE, LDH_D, TKT1
+RPI, TKT2, RPE, LDH_D, ACONTa
+RPI, TKT2, RPE, ACALD, TKT1
+RPI, TKT2, RPE, ACALD, ACONTa
+RPI, TKT2, RPE, TKT1, ACONTa
+RPI, TKT2, TALA, ALCD2x, LDH_D
+RPI, TKT2, TALA, ALCD2x, ACALD
+RPI, TKT2, TALA, ALCD2x, TKT1
+RPI, TKT2, TALA, ALCD2x, ACONTa
+RPI, TKT2, TALA, LDH_D, ACALD
+RPI, TKT2, TALA, LDH_D, TKT1
+RPI, TKT2, TALA, LDH_D, ACONTa
+RPI, TKT2, TALA, ACALD, TKT1
+RPI, TKT2, TALA, ACALD, ACONTa
+RPI, TKT2, TALA, TKT1, ACONTa
+RPI, TKT2, ALCD2x, LDH_D, ACALD
+RPI, TKT2, ALCD2x, LDH_D, TKT1
+RPI, TKT2, ALCD2x, LDH_D, ACONTa
+RPI, TKT2, ALCD2x, ACALD, TKT1
+RPI, TKT2, ALCD2x, ACALD, ACONTa
+RPI, TKT2, ALCD2x, TKT1, ACONTa
+RPI, TKT2, LDH_D, ACALD, TKT1
+RPI, TKT2, LDH_D, ACALD, ACONTa
+RPI, TKT2, LDH_D, TKT1, ACONTa
+RPI, TKT2, ACALD, TKT1, ACONTa
+RPI, RPE, TALA, ALCD2x, LDH_D
+RPI, RPE, TALA, ALCD2x, ACALD
+RPI, RPE, TALA, ALCD2x, TKT1
+RPI, RPE, TALA, ALCD2x, ACONTa
+RPI, RPE, TALA, LDH_D, ACALD
+RPI, RPE, TALA, LDH_D, TKT1
+RPI, RPE, TALA, LDH_D, ACONTa
+RPI, RPE, TALA, ACALD, TKT1
+RPI, RPE, TALA, ACALD, ACONTa
+RPI, RPE, TALA, TKT1, ACONTa
+RPI, RPE, ALCD2x, LDH_D, ACALD
+RPI, RPE, ALCD2x, LDH_D, TKT1
+RPI, RPE, ALCD2x, LDH_D, ACONTa
+RPI, RPE, ALCD2x, ACALD, TKT1
+RPI, RPE, ALCD2x, ACALD, ACONTa
+RPI, RPE, ALCD2x, TKT1, ACONTa
+RPI, RPE, LDH_D, ACALD, TKT1
+RPI, RPE, LDH_D, ACALD, ACONTa
+RPI, RPE, LDH_D, TKT1, ACONTa
+RPI, RPE, ACALD, TKT1, ACONTa
+RPI, TALA, ALCD2x, LDH_D, ACALD
+RPI, TALA, ALCD2x, LDH_D, TKT1
+RPI, TALA, ALCD2x, LDH_D, ACONTa
+RPI, TALA, ALCD2x, ACALD, TKT1
+RPI, TALA, ALCD2x, ACALD, ACONTa
+RPI, TALA, ALCD2x, TKT1, ACONTa
+RPI, TALA, LDH_D, ACALD, TKT1
+RPI, TALA, LDH_D, ACALD, ACONTa
+RPI, TALA, LDH_D, TKT1, ACONTa
+RPI, TALA, ACALD, TKT1, ACONTa
+RPI, ALCD2x, LDH_D, ACALD, TKT1
+RPI, ALCD2x, LDH_D, ACALD, ACONTa
+RPI, ALCD2x, LDH_D, TKT1, ACONTa
+RPI, ALCD2x, ACALD, TKT1, ACONTa
+RPI, LDH_D, ACALD, TKT1, ACONTa
+TKT2, RPE, TALA, ALCD2x, LDH_D
+TKT2, RPE, TALA, ALCD2x, ACALD
+TKT2, RPE, TALA, ALCD2x, TKT1
+TKT2, RPE, TALA, ALCD2x, ACONTa
+TKT2, RPE, TALA, LDH_D, ACALD
+TKT2, RPE, TALA, LDH_D, TKT1
+TKT2, RPE, TALA, LDH_D, ACONTa
+TKT2, RPE, TALA, ACALD, TKT1
+TKT2, RPE, TALA, ACALD, ACONTa
+TKT2, RPE, TALA, TKT1, ACONTa
+TKT2, RPE, ALCD2x, LDH_D, ACALD
+TKT2, RPE, ALCD2x, LDH_D, TKT1
+TKT2, RPE, ALCD2x, LDH_D, ACONTa
+TKT2, RPE, ALCD2x, ACALD, TKT1
+TKT2, RPE, ALCD2x, ACALD, ACONTa
+TKT2, RPE, ALCD2x, TKT1, ACONTa
+TKT2, RPE, LDH_D, ACALD, TKT1
+TKT2, RPE, LDH_D, ACALD, ACONTa
+TKT2, RPE, LDH_D, TKT1, ACONTa
+TKT2, RPE, ACALD, TKT1, ACONTa
+TKT2, TALA, ALCD2x, LDH_D, ACALD
+TKT2, TALA, ALCD2x, LDH_D, TKT1
+TKT2, TALA, ALCD2x, LDH_D, ACONTa
+TKT2, TALA, ALCD2x, ACALD, TKT1
+TKT2, TALA, ALCD2x, ACALD, ACONTa
+TKT2, TALA, ALCD2x, TKT1, ACONTa
+TKT2, TALA, LDH_D, ACALD, TKT1
+TKT2, TALA, LDH_D, ACALD, ACONTa
+TKT2, TALA, LDH_D, TKT1, ACONTa
+TKT2, TALA, ACALD, TKT1, ACONTa
+TKT2, ALCD2x, LDH_D, ACALD, TKT1
+TKT2, ALCD2x, LDH_D, ACALD, ACONTa
+TKT2, ALCD2x, LDH_D, TKT1, ACONTa
+TKT2, ALCD2x, ACALD, TKT1, ACONTa
+TKT2, LDH_D, ACALD, TKT1, ACONTa
+RPE, TALA, ALCD2x, LDH_D, ACALD
+RPE, TALA, ALCD2x, LDH_D, TKT1
+RPE, TALA, ALCD2x, LDH_D, ACONTa
+RPE, TALA, ALCD2x, ACALD, TKT1
+RPE, TALA, ALCD2x, ACALD, ACONTa
+RPE, TALA, ALCD2x, TKT1, ACONTa
+RPE, TALA, LDH_D, ACALD, TKT1
+RPE, TALA, LDH_D, ACALD, ACONTa
+RPE, TALA, LDH_D, TKT1, ACONTa
+RPE, TALA, ACALD, TKT1, ACONTa
+RPE, ALCD2x, LDH_D, ACALD, TKT1
+RPE, ALCD2x, LDH_D, ACALD, ACONTa
+RPE, ALCD2x, LDH_D, TKT1, ACONTa
+RPE, ALCD2x, ACALD, TKT1, ACONTa
+RPE, LDH_D, ACALD, TKT1, ACONTa
+TALA, ALCD2x, LDH_D, ACALD, TKT1
+TALA, ALCD2x, LDH_D, ACALD, ACONTa
+TALA, ALCD2x, LDH_D, TKT1, ACONTa
+TALA, ALCD2x, ACALD, TKT1, ACONTa
+TALA, LDH_D, ACALD, TKT1, ACONTa
+ALCD2x, LDH_D, ACALD, TKT1, ACONTa
+PFL, RPI, TKT2, RPE, TALA, ALCD2x
+PFL, RPI, TKT2, RPE, TALA, LDH_D
+PFL, RPI, TKT2, RPE, TALA, ACALD
+PFL, RPI, TKT2, RPE, TALA, TKT1
+PFL, RPI, TKT2, RPE, TALA, ACONTa
+PFL, RPI, TKT2, RPE, ALCD2x, LDH_D
+PFL, RPI, TKT2, RPE, ALCD2x, ACALD
+PFL, RPI, TKT2, RPE, ALCD2x, TKT1
+PFL, RPI, TKT2, RPE, ALCD2x, ACONTa
+PFL, RPI, TKT2, RPE, LDH_D, ACALD
+PFL, RPI, TKT2, RPE, LDH_D, TKT1
+PFL, RPI, TKT2, RPE, LDH_D, ACONTa
+PFL, RPI, TKT2, RPE, ACALD, TKT1
+PFL, RPI, TKT2, RPE, ACALD, ACONTa
+PFL, RPI, TKT2, RPE, TKT1, ACONTa
+PFL, RPI, TKT2, TALA, ALCD2x, LDH_D
+PFL, RPI, TKT2, TALA, ALCD2x, ACALD
+PFL, RPI, TKT2, TALA, ALCD2x, TKT1
+PFL, RPI, TKT2, TALA, ALCD2x, ACONTa
+PFL, RPI, TKT2, TALA, LDH_D, ACALD
+PFL, RPI, TKT2, TALA, LDH_D, TKT1
+PFL, RPI, TKT2, TALA, LDH_D, ACONTa
+PFL, RPI, TKT2, TALA, ACALD, TKT1
+PFL, RPI, TKT2, TALA, ACALD, ACONTa
+PFL, RPI, TKT2, TALA, TKT1, ACONTa
+PFL, RPI, TKT2, ALCD2x, LDH_D, ACALD
+PFL, RPI, TKT2, ALCD2x, LDH_D, TKT1
+PFL, RPI, TKT2, ALCD2x, LDH_D, ACONTa
+PFL, RPI, TKT2, ALCD2x, ACALD, TKT1
+PFL, RPI, TKT2, ALCD2x, ACALD, ACONTa
+PFL, RPI, TKT2, ALCD2x, TKT1, ACONTa
+PFL, RPI, TKT2, LDH_D, ACALD, TKT1
+PFL, RPI, TKT2, LDH_D, ACALD, ACONTa
+PFL, RPI, TKT2, LDH_D, TKT1, ACONTa
+PFL, RPI, TKT2, ACALD, TKT1, ACONTa
+PFL, RPI, RPE, TALA, ALCD2x, LDH_D
+PFL, RPI, RPE, TALA, ALCD2x, ACALD
+PFL, RPI, RPE, TALA, ALCD2x, TKT1
+PFL, RPI, RPE, TALA, ALCD2x, ACONTa
+PFL, RPI, RPE, TALA, LDH_D, ACALD
+PFL, RPI, RPE, TALA, LDH_D, TKT1
+PFL, RPI, RPE, TALA, LDH_D, ACONTa
+PFL, RPI, RPE, TALA, ACALD, TKT1
+PFL, RPI, RPE, TALA, ACALD, ACONTa
+PFL, RPI, RPE, TALA, TKT1, ACONTa
+PFL, RPI, RPE, ALCD2x, LDH_D, ACALD
+PFL, RPI, RPE, ALCD2x, LDH_D, TKT1
+PFL, RPI, RPE, ALCD2x, LDH_D, ACONTa
+PFL, RPI, RPE, ALCD2x, ACALD, TKT1
+PFL, RPI, RPE, ALCD2x, ACALD, ACONTa
+PFL, RPI, RPE, ALCD2x, TKT1, ACONTa
+PFL, RPI, RPE, LDH_D, ACALD, TKT1
+PFL, RPI, RPE, LDH_D, ACALD, ACONTa
+PFL, RPI, RPE, LDH_D, TKT1, ACONTa
+PFL, RPI, RPE, ACALD, TKT1, ACONTa
+PFL, RPI, TALA, ALCD2x, LDH_D, ACALD
+PFL, RPI, TALA, ALCD2x, LDH_D, TKT1
+PFL, RPI, TALA, ALCD2x, LDH_D, ACONTa
+PFL, RPI, TALA, ALCD2x, ACALD, TKT1
+PFL, RPI, TALA, ALCD2x, ACALD, ACONTa
+PFL, RPI, TALA, ALCD2x, TKT1, ACONTa
+PFL, RPI, TALA, LDH_D, ACALD, TKT1
+PFL, RPI, TALA, LDH_D, ACALD, ACONTa
+PFL, RPI, TALA, LDH_D, TKT1, ACONTa
+PFL, RPI, TALA, ACALD, TKT1, ACONTa
+PFL, RPI, ALCD2x, LDH_D, ACALD, TKT1
+PFL, RPI, ALCD2x, LDH_D, ACALD, ACONTa
+PFL, RPI, ALCD2x, LDH_D, TKT1, ACONTa
+PFL, RPI, ALCD2x, ACALD, TKT1, ACONTa
+PFL, RPI, LDH_D, ACALD, TKT1, ACONTa
+PFL, TKT2, RPE, TALA, ALCD2x, LDH_D
+PFL, TKT2, RPE, TALA, ALCD2x, ACALD
+PFL, TKT2, RPE, TALA, ALCD2x, TKT1
+PFL, TKT2, RPE, TALA, ALCD2x, ACONTa
+PFL, TKT2, RPE, TALA, LDH_D, ACALD
+PFL, TKT2, RPE, TALA, LDH_D, TKT1
+PFL, TKT2, RPE, TALA, LDH_D, ACONTa
+PFL, TKT2, RPE, TALA, ACALD, TKT1
+PFL, TKT2, RPE, TALA, ACALD, ACONTa
+PFL, TKT2, RPE, TALA, TKT1, ACONTa
+PFL, TKT2, RPE, ALCD2x, LDH_D, ACALD
+PFL, TKT2, RPE, ALCD2x, LDH_D, TKT1
+PFL, TKT2, RPE, ALCD2x, LDH_D, ACONTa
+PFL, TKT2, RPE, ALCD2x, ACALD, TKT1
+PFL, TKT2, RPE, ALCD2x, ACALD, ACONTa
+PFL, TKT2, RPE, ALCD2x, TKT1, ACONTa
+PFL, TKT2, RPE, LDH_D, ACALD, TKT1
+PFL, TKT2, RPE, LDH_D, ACALD, ACONTa
+PFL, TKT2, RPE, LDH_D, TKT1, ACONTa
+PFL, TKT2, RPE, ACALD, TKT1, ACONTa
+PFL, TKT2, TALA, ALCD2x, LDH_D, ACALD
+PFL, TKT2, TALA, ALCD2x, LDH_D, TKT1
+PFL, TKT2, TALA, ALCD2x, LDH_D, ACONTa
+PFL, TKT2, TALA, ALCD2x, ACALD, TKT1
+PFL, TKT2, TALA, ALCD2x, ACALD, ACONTa
+PFL, TKT2, TALA, ALCD2x, TKT1, ACONTa
+PFL, TKT2, TALA, LDH_D, ACALD, TKT1
+PFL, TKT2, TALA, LDH_D, ACALD, ACONTa
+PFL, TKT2, TALA, LDH_D, TKT1, ACONTa
+PFL, TKT2, TALA, ACALD, TKT1, ACONTa
+PFL, TKT2, ALCD2x, LDH_D, ACALD, TKT1
+PFL, TKT2, ALCD2x, LDH_D, ACALD, ACONTa
+PFL, TKT2, ALCD2x, LDH_D, TKT1, ACONTa
+PFL, TKT2, ALCD2x, ACALD, TKT1, ACONTa
+PFL, TKT2, LDH_D, ACALD, TKT1, ACONTa
+PFL, RPE, TALA, ALCD2x, LDH_D, ACALD
+PFL, RPE, TALA, ALCD2x, LDH_D, TKT1
+PFL, RPE, TALA, ALCD2x, LDH_D, ACONTa
+PFL, RPE, TALA, ALCD2x, ACALD, TKT1
+PFL, RPE, TALA, ALCD2x, ACALD, ACONTa
+PFL, RPE, TALA, ALCD2x, TKT1, ACONTa
+PFL, RPE, TALA, LDH_D, ACALD, TKT1
+PFL, RPE, TALA, LDH_D, ACALD, ACONTa
+PFL, RPE, TALA, LDH_D, TKT1, ACONTa
+PFL, RPE, TALA, ACALD, TKT1, ACONTa
+PFL, RPE, ALCD2x, LDH_D, ACALD, TKT1
+PFL, RPE, ALCD2x, LDH_D, ACALD, ACONTa
+PFL, RPE, ALCD2x, LDH_D, TKT1, ACONTa
+PFL, RPE, ALCD2x, ACALD, TKT1, ACONTa
+PFL, RPE, LDH_D, ACALD, TKT1, ACONTa
+PFL, TALA, ALCD2x, LDH_D, ACALD, TKT1
+PFL, TALA, ALCD2x, LDH_D, ACALD, ACONTa
+PFL, TALA, ALCD2x, LDH_D, TKT1, ACONTa
+PFL, TALA, ALCD2x, ACALD, TKT1, ACONTa
+PFL, TALA, LDH_D, ACALD, TKT1, ACONTa
+PFL, ALCD2x, LDH_D, ACALD, TKT1, ACONTa
+RPI, TKT2, RPE, TALA, ALCD2x, LDH_D
+RPI, TKT2, RPE, TALA, ALCD2x, ACALD
+RPI, TKT2, RPE, TALA, ALCD2x, TKT1
+RPI, TKT2, RPE, TALA, ALCD2x, ACONTa
+RPI, TKT2, RPE, TALA, LDH_D, ACALD
+RPI, TKT2, RPE, TALA, LDH_D, TKT1
+RPI, TKT2, RPE, TALA, LDH_D, ACONTa
+RPI, TKT2, RPE, TALA, ACALD, TKT1
+RPI, TKT2, RPE, TALA, ACALD, ACONTa
+RPI, TKT2, RPE, TALA, TKT1, ACONTa
+RPI, TKT2, RPE, ALCD2x, LDH_D, ACALD
+RPI, TKT2, RPE, ALCD2x, LDH_D, TKT1
+RPI, TKT2, RPE, ALCD2x, LDH_D, ACONTa
+RPI, TKT2, RPE, ALCD2x, ACALD, TKT1
+RPI, TKT2, RPE, ALCD2x, ACALD, ACONTa
+RPI, TKT2, RPE, ALCD2x, TKT1, ACONTa
+RPI, TKT2, RPE, LDH_D, ACALD, TKT1
+RPI, TKT2, RPE, LDH_D, ACALD, ACONTa
+RPI, TKT2, RPE, LDH_D, TKT1, ACONTa
+RPI, TKT2, RPE, ACALD, TKT1, ACONTa
+RPI, TKT2, TALA, ALCD2x, LDH_D, ACALD
+RPI, TKT2, TALA, ALCD2x, LDH_D, TKT1
+RPI, TKT2, TALA, ALCD2x, LDH_D, ACONTa
+RPI, TKT2, TALA, ALCD2x, ACALD, TKT1
+RPI, TKT2, TALA, ALCD2x, ACALD, ACONTa
+RPI, TKT2, TALA, ALCD2x, TKT1, ACONTa
+RPI, TKT2, TALA, LDH_D, ACALD, TKT1
+RPI, TKT2, TALA, LDH_D, ACALD, ACONTa
+RPI, TKT2, TALA, LDH_D, TKT1, ACONTa
+RPI, TKT2, TALA, ACALD, TKT1, ACONTa
+RPI, TKT2, ALCD2x, LDH_D, ACALD, TKT1
+RPI, TKT2, ALCD2x, LDH_D, ACALD, ACONTa
+RPI, TKT2, ALCD2x, LDH_D, TKT1, ACONTa
+RPI, TKT2, ALCD2x, ACALD, TKT1, ACONTa
+RPI, TKT2, LDH_D, ACALD, TKT1, ACONTa
+RPI, RPE, TALA, ALCD2x, LDH_D, ACALD
+RPI, RPE, TALA, ALCD2x, LDH_D, TKT1
+RPI, RPE, TALA, ALCD2x, LDH_D, ACONTa
+RPI, RPE, TALA, ALCD2x, ACALD, TKT1
+RPI, RPE, TALA, ALCD2x, ACALD, ACONTa
+RPI, RPE, TALA, ALCD2x, TKT1, ACONTa
+RPI, RPE, TALA, LDH_D, ACALD, TKT1
+RPI, RPE, TALA, LDH_D, ACALD, ACONTa
+RPI, RPE, TALA, LDH_D, TKT1, ACONTa
+RPI, RPE, TALA, ACALD, TKT1, ACONTa
+RPI, RPE, ALCD2x, LDH_D, ACALD, TKT1
+RPI, RPE, ALCD2x, LDH_D, ACALD, ACONTa
+RPI, RPE, ALCD2x, LDH_D, TKT1, ACONTa
+RPI, RPE, ALCD2x, ACALD, TKT1, ACONTa
+RPI, RPE, LDH_D, ACALD, TKT1, ACONTa
+RPI, TALA, ALCD2x, LDH_D, ACALD, TKT1
+RPI, TALA, ALCD2x, LDH_D, ACALD, ACONTa
+RPI, TALA, ALCD2x, LDH_D, TKT1, ACONTa
+RPI, TALA, ALCD2x, ACALD, TKT1, ACONTa
+RPI, TALA, LDH_D, ACALD, TKT1, ACONTa
+RPI, ALCD2x, LDH_D, ACALD, TKT1, ACONTa
+TKT2, RPE, TALA, ALCD2x, LDH_D, ACALD
+TKT2, RPE, TALA, ALCD2x, LDH_D, TKT1
+TKT2, RPE, TALA, ALCD2x, LDH_D, ACONTa
+TKT2, RPE, TALA, ALCD2x, ACALD, TKT1
+TKT2, RPE, TALA, ALCD2x, ACALD, ACONTa
+TKT2, RPE, TALA, ALCD2x, TKT1, ACONTa
+TKT2, RPE, TALA, LDH_D, ACALD, TKT1
+TKT2, RPE, TALA, LDH_D, ACALD, ACONTa
+TKT2, RPE, TALA, LDH_D, TKT1, ACONTa
+TKT2, RPE, TALA, ACALD, TKT1, ACONTa
+TKT2, RPE, ALCD2x, LDH_D, ACALD, TKT1
+TKT2, RPE, ALCD2x, LDH_D, ACALD, ACONTa
+TKT2, RPE, ALCD2x, LDH_D, TKT1, ACONTa
+TKT2, RPE, ALCD2x, ACALD, TKT1, ACONTa
+TKT2, RPE, LDH_D, ACALD, TKT1, ACONTa
+TKT2, TALA, ALCD2x, LDH_D, ACALD, TKT1
+TKT2, TALA, ALCD2x, LDH_D, ACALD, ACONTa
+TKT2, TALA, ALCD2x, LDH_D, TKT1, ACONTa
+TKT2, TALA, ALCD2x, ACALD, TKT1, ACONTa
+TKT2, TALA, LDH_D, ACALD, TKT1, ACONTa
+TKT2, ALCD2x, LDH_D, ACALD, TKT1, ACONTa
+RPE, TALA, ALCD2x, LDH_D, ACALD, TKT1
+RPE, TALA, ALCD2x, LDH_D, ACALD, ACONTa
+RPE, TALA, ALCD2x, LDH_D, TKT1, ACONTa
+RPE, TALA, ALCD2x, ACALD, TKT1, ACONTa
+RPE, TALA, LDH_D, ACALD, TKT1, ACONTa
+RPE, ALCD2x, LDH_D, ACALD, TKT1, ACONTa
+TALA, ALCD2x, LDH_D, ACALD, TKT1, ACONTa
+PFL, RPI, TKT2, RPE, TALA, ALCD2x, LDH_D
+PFL, RPI, TKT2, RPE, TALA, ALCD2x, ACALD
+PFL, RPI, TKT2, RPE, TALA, ALCD2x, TKT1
+PFL, RPI, TKT2, RPE, TALA, ALCD2x, ACONTa
+PFL, RPI, TKT2, RPE, TALA, LDH_D, ACALD
+PFL, RPI, TKT2, RPE, TALA, LDH_D, TKT1
+PFL, RPI, TKT2, RPE, TALA, LDH_D, ACONTa
+PFL, RPI, TKT2, RPE, TALA, ACALD, TKT1
+PFL, RPI, TKT2, RPE, TALA, ACALD, ACONTa
+PFL, RPI, TKT2, RPE, TALA, TKT1, ACONTa
+PFL, RPI, TKT2, RPE, ALCD2x, LDH_D, ACALD
+PFL, RPI, TKT2, RPE, ALCD2x, LDH_D, TKT1
+PFL, RPI, TKT2, RPE, ALCD2x, LDH_D, ACONTa
+PFL, RPI, TKT2, RPE, ALCD2x, ACALD, TKT1
+PFL, RPI, TKT2, RPE, ALCD2x, ACALD, ACONTa
+PFL, RPI, TKT2, RPE, ALCD2x, TKT1, ACONTa
+PFL, RPI, TKT2, RPE, LDH_D, ACALD, TKT1
+PFL, RPI, TKT2, RPE, LDH_D, ACALD, ACONTa
+PFL, RPI, TKT2, RPE, LDH_D, TKT1, ACONTa
+PFL, RPI, TKT2, RPE, ACALD, TKT1, ACONTa
+PFL, RPI, TKT2, TALA, ALCD2x, LDH_D, ACALD
+PFL, RPI, TKT2, TALA, ALCD2x, LDH_D, TKT1
+PFL, RPI, TKT2, TALA, ALCD2x, LDH_D, ACONTa
+PFL, RPI, TKT2, TALA, ALCD2x, ACALD, TKT1
+PFL, RPI, TKT2, TALA, ALCD2x, ACALD, ACONTa
+PFL, RPI, TKT2, TALA, ALCD2x, TKT1, ACONTa
+PFL, RPI, TKT2, TALA, LDH_D, ACALD, TKT1
+PFL, RPI, TKT2, TALA, LDH_D, ACALD, ACONTa
+PFL, RPI, TKT2, TALA, LDH_D, TKT1, ACONTa
+PFL, RPI, TKT2, TALA, ACALD, TKT1, ACONTa
+PFL, RPI, TKT2, ALCD2x, LDH_D, ACALD, TKT1
+PFL, RPI, TKT2, ALCD2x, LDH_D, ACALD, ACONTa
+PFL, RPI, TKT2, ALCD2x, LDH_D, TKT1, ACONTa
+PFL, RPI, TKT2, ALCD2x, ACALD, TKT1, ACONTa
+PFL, RPI, TKT2, LDH_D, ACALD, TKT1, ACONTa
+PFL, RPI, RPE, TALA, ALCD2x, LDH_D, ACALD
+PFL, RPI, RPE, TALA, ALCD2x, LDH_D, TKT1
+PFL, RPI, RPE, TALA, ALCD2x, LDH_D, ACONTa
+PFL, RPI, RPE, TALA, ALCD2x, ACALD, TKT1
+PFL, RPI, RPE, TALA, ALCD2x, ACALD, ACONTa
+PFL, RPI, RPE, TALA, ALCD2x, TKT1, ACONTa
+PFL, RPI, RPE, TALA, LDH_D, ACALD, TKT1
+PFL, RPI, RPE, TALA, LDH_D, ACALD, ACONTa
+PFL, RPI, RPE, TALA, LDH_D, TKT1, ACONTa
+PFL, RPI, RPE, TALA, ACALD, TKT1, ACONTa
+PFL, RPI, RPE, ALCD2x, LDH_D, ACALD, TKT1
+PFL, RPI, RPE, ALCD2x, LDH_D, ACALD, ACONTa
+PFL, RPI, RPE, ALCD2x, LDH_D, TKT1, ACONTa
+PFL, RPI, RPE, ALCD2x, ACALD, TKT1, ACONTa
+PFL, RPI, RPE, LDH_D, ACALD, TKT1, ACONTa
+PFL, RPI, TALA, ALCD2x, LDH_D, ACALD, TKT1
+PFL, RPI, TALA, ALCD2x, LDH_D, ACALD, ACONTa
+PFL, RPI, TALA, ALCD2x, LDH_D, TKT1, ACONTa
+PFL, RPI, TALA, ALCD2x, ACALD, TKT1, ACONTa
+PFL, RPI, TALA, LDH_D, ACALD, TKT1, ACONTa
+PFL, RPI, ALCD2x, LDH_D, ACALD, TKT1, ACONTa
+PFL, TKT2, RPE, TALA, ALCD2x, LDH_D, ACALD
+PFL, TKT2, RPE, TALA, ALCD2x, LDH_D, TKT1
+PFL, TKT2, RPE, TALA, ALCD2x, LDH_D, ACONTa
+PFL, TKT2, RPE, TALA, ALCD2x, ACALD, TKT1
+PFL, TKT2, RPE, TALA, ALCD2x, ACALD, ACONTa
+PFL, TKT2, RPE, TALA, ALCD2x, TKT1, ACONTa
+PFL, TKT2, RPE, TALA, LDH_D, ACALD, TKT1
+PFL, TKT2, RPE, TALA, LDH_D, ACALD, ACONTa
+PFL, TKT2, RPE, TALA, LDH_D, TKT1, ACONTa
+PFL, TKT2, RPE, TALA, ACALD, TKT1, ACONTa
+PFL, TKT2, RPE, ALCD2x, LDH_D, ACALD, TKT1
+PFL, TKT2, RPE, ALCD2x, LDH_D, ACALD, ACONTa
+PFL, TKT2, RPE, ALCD2x, LDH_D, TKT1, ACONTa
+PFL, TKT2, RPE, ALCD2x, ACALD, TKT1, ACONTa
+PFL, TKT2, RPE, LDH_D, ACALD, TKT1, ACONTa
+PFL, TKT2, TALA, ALCD2x, LDH_D, ACALD, TKT1
+PFL, TKT2, TALA, ALCD2x, LDH_D, ACALD, ACONTa
+PFL, TKT2, TALA, ALCD2x, LDH_D, TKT1, ACONTa
+PFL, TKT2, TALA, ALCD2x, ACALD, TKT1, ACONTa
+PFL, TKT2, TALA, LDH_D, ACALD, TKT1, ACONTa
+PFL, TKT2, ALCD2x, LDH_D, ACALD, TKT1, ACONTa
+PFL, RPE, TALA, ALCD2x, LDH_D, ACALD, TKT1
+PFL, RPE, TALA, ALCD2x, LDH_D, ACALD, ACONTa
+PFL, RPE, TALA, ALCD2x, LDH_D, TKT1, ACONTa
+PFL, RPE, TALA, ALCD2x, ACALD, TKT1, ACONTa
+PFL, RPE, TALA, LDH_D, ACALD, TKT1, ACONTa
+PFL, RPE, ALCD2x, LDH_D, ACALD, TKT1, ACONTa
+PFL, TALA, ALCD2x, LDH_D, ACALD, TKT1, ACONTa
+RPI, TKT2, RPE, TALA, ALCD2x, LDH_D, ACALD
+RPI, TKT2, RPE, TALA, ALCD2x, LDH_D, TKT1
+RPI, TKT2, RPE, TALA, ALCD2x, LDH_D, ACONTa
+RPI, TKT2, RPE, TALA, ALCD2x, ACALD, TKT1
+RPI, TKT2, RPE, TALA, ALCD2x, ACALD, ACONTa
+RPI, TKT2, RPE, TALA, ALCD2x, TKT1, ACONTa
+RPI, TKT2, RPE, TALA, LDH_D, ACALD, TKT1
+RPI, TKT2, RPE, TALA, LDH_D, ACALD, ACONTa
+RPI, TKT2, RPE, TALA, LDH_D, TKT1, ACONTa
+RPI, TKT2, RPE, TALA, ACALD, TKT1, ACONTa
+RPI, TKT2, RPE, ALCD2x, LDH_D, ACALD, TKT1
+RPI, TKT2, RPE, ALCD2x, LDH_D, ACALD, ACONTa
+RPI, TKT2, RPE, ALCD2x, LDH_D, TKT1, ACONTa
+RPI, TKT2, RPE, ALCD2x, ACALD, TKT1, ACONTa
+RPI, TKT2, RPE, LDH_D, ACALD, TKT1, ACONTa
+RPI, TKT2, TALA, ALCD2x, LDH_D, ACALD, TKT1
+RPI, TKT2, TALA, ALCD2x, LDH_D, ACALD, ACONTa
+RPI, TKT2, TALA, ALCD2x, LDH_D, TKT1, ACONTa
+RPI, TKT2, TALA, ALCD2x, ACALD, TKT1, ACONTa
+RPI, TKT2, TALA, LDH_D, ACALD, TKT1, ACONTa
+RPI, TKT2, ALCD2x, LDH_D, ACALD, TKT1, ACONTa
+RPI, RPE, TALA, ALCD2x, LDH_D, ACALD, TKT1
+RPI, RPE, TALA, ALCD2x, LDH_D, ACALD, ACONTa
+RPI, RPE, TALA, ALCD2x, LDH_D, TKT1, ACONTa
+RPI, RPE, TALA, ALCD2x, ACALD, TKT1, ACONTa
+RPI, RPE, TALA, LDH_D, ACALD, TKT1, ACONTa
+RPI, RPE, ALCD2x, LDH_D, ACALD, TKT1, ACONTa
+RPI, TALA, ALCD2x, LDH_D, ACALD, TKT1, ACONTa
+TKT2, RPE, TALA, ALCD2x, LDH_D, ACALD, TKT1
+TKT2, RPE, TALA, ALCD2x, LDH_D, ACALD, ACONTa
+TKT2, RPE, TALA, ALCD2x, LDH_D, TKT1, ACONTa
+TKT2, RPE, TALA, ALCD2x, ACALD, TKT1, ACONTa
+TKT2, RPE, TALA, LDH_D, ACALD, TKT1, ACONTa
+TKT2, RPE, ALCD2x, LDH_D, ACALD, TKT1, ACONTa
+TKT2, TALA, ALCD2x, LDH_D, ACALD, TKT1, ACONTa
+RPE, TALA, ALCD2x, LDH_D, ACALD, TKT1, ACONTa
+PFL, RPI, TKT2, RPE, TALA, ALCD2x, LDH_D, ACALD
+PFL, RPI, TKT2, RPE, TALA, ALCD2x, LDH_D, TKT1
+PFL, RPI, TKT2, RPE, TALA, ALCD2x, LDH_D, ACONTa
+PFL, RPI, TKT2, RPE, TALA, ALCD2x, ACALD, TKT1
+PFL, RPI, TKT2, RPE, TALA, ALCD2x, ACALD, ACONTa
+PFL, RPI, TKT2, RPE, TALA, ALCD2x, TKT1, ACONTa
+PFL, RPI, TKT2, RPE, TALA, LDH_D, ACALD, TKT1
+PFL, RPI, TKT2, RPE, TALA, LDH_D, ACALD, ACONTa
+PFL, RPI, TKT2, RPE, TALA, LDH_D, TKT1, ACONTa
+PFL, RPI, TKT2, RPE, TALA, ACALD, TKT1, ACONTa
+PFL, RPI, TKT2, RPE, ALCD2x, LDH_D, ACALD, TKT1
+PFL, RPI, TKT2, RPE, ALCD2x, LDH_D, ACALD, ACONTa
+PFL, RPI, TKT2, RPE, ALCD2x, LDH_D, TKT1, ACONTa
+PFL, RPI, TKT2, RPE, ALCD2x, ACALD, TKT1, ACONTa
+PFL, RPI, TKT2, RPE, LDH_D, ACALD, TKT1, ACONTa
+PFL, RPI, TKT2, TALA, ALCD2x, LDH_D, ACALD, TKT1
+PFL, RPI, TKT2, TALA, ALCD2x, LDH_D, ACALD, ACONTa
+PFL, RPI, TKT2, TALA, ALCD2x, LDH_D, TKT1, ACONTa
+PFL, RPI, TKT2, TALA, ALCD2x, ACALD, TKT1, ACONTa
+PFL, RPI, TKT2, TALA, LDH_D, ACALD, TKT1, ACONTa
+PFL, RPI, TKT2, ALCD2x, LDH_D, ACALD, TKT1, ACONTa
+PFL, RPI, RPE, TALA, ALCD2x, LDH_D, ACALD, TKT1
+PFL, RPI, RPE, TALA, ALCD2x, LDH_D, ACALD, ACONTa
+PFL, RPI, RPE, TALA, ALCD2x, LDH_D, TKT1, ACONTa
+PFL, RPI, RPE, TALA, ALCD2x, ACALD, TKT1, ACONTa
+PFL, RPI, RPE, TALA, LDH_D, ACALD, TKT1, ACONTa
+PFL, RPI, RPE, ALCD2x, LDH_D, ACALD, TKT1, ACONTa
+PFL, RPI, TALA, ALCD2x, LDH_D, ACALD, TKT1, ACONTa
+PFL, TKT2, RPE, TALA, ALCD2x, LDH_D, ACALD, TKT1
+PFL, TKT2, RPE, TALA, ALCD2x, LDH_D, ACALD, ACONTa
+PFL, TKT2, RPE, TALA, ALCD2x, LDH_D, TKT1, ACONTa
+PFL, TKT2, RPE, TALA, ALCD2x, ACALD, TKT1, ACONTa
+PFL, TKT2, RPE, TALA, LDH_D, ACALD, TKT1, ACONTa
+PFL, TKT2, RPE, ALCD2x, LDH_D, ACALD, TKT1, ACONTa
+PFL, TKT2, TALA, ALCD2x, LDH_D, ACALD, TKT1, ACONTa
+PFL, RPE, TALA, ALCD2x, LDH_D, ACALD, TKT1, ACONTa
+RPI, TKT2, RPE, TALA, ALCD2x, LDH_D, ACALD, TKT1
+RPI, TKT2, RPE, TALA, ALCD2x, LDH_D, ACALD, ACONTa
+RPI, TKT2, RPE, TALA, ALCD2x, LDH_D, TKT1, ACONTa
+RPI, TKT2, RPE, TALA, ALCD2x, ACALD, TKT1, ACONTa
+RPI, TKT2, RPE, TALA, LDH_D, ACALD, TKT1, ACONTa
+RPI, TKT2, RPE, ALCD2x, LDH_D, ACALD, TKT1, ACONTa
+RPI, TKT2, TALA, ALCD2x, LDH_D, ACALD, TKT1, ACONTa
+RPI, RPE, TALA, ALCD2x, LDH_D, ACALD, TKT1, ACONTa
+TKT2, RPE, TALA, ALCD2x, LDH_D, ACALD, TKT1, ACONTa
+PFL, RPI, TKT2, RPE, TALA, ALCD2x, LDH_D, ACALD, TKT1
+PFL, RPI, TKT2, RPE, TALA, ALCD2x, LDH_D, ACALD, ACONTa
+PFL, RPI, TKT2, RPE, TALA, ALCD2x, LDH_D, TKT1, ACONTa
+PFL, RPI, TKT2, RPE, TALA, ALCD2x, ACALD, TKT1, ACONTa
+PFL, RPI, TKT2, RPE, TALA, LDH_D, ACALD, TKT1, ACONTa
+PFL, RPI, TKT2, RPE, ALCD2x, LDH_D, ACALD, TKT1, ACONTa
+PFL, RPI, TKT2, TALA, ALCD2x, LDH_D, ACALD, TKT1, ACONTa
+PFL, RPI, RPE, TALA, ALCD2x, LDH_D, ACALD, TKT1, ACONTa
+PFL, TKT2, RPE, TALA, ALCD2x, LDH_D, ACALD, TKT1, ACONTa
+RPI, TKT2, RPE, TALA, ALCD2x, LDH_D, ACALD, TKT1, ACONTa
+PFL, RPI, TKT2, RPE, TALA, ALCD2x, LDH_D, ACALD, TKT1, ACONTa
