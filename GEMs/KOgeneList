@@ -4,3 +4,5 @@ selectedRxnList = {'GLCabcpp'; 'GLCptspp'; 'HEX1'; 'PGI'; 'PFK'; 'FBA'; 'TPI'; '
 koList = ["PFL", "RPI", "TKT2", "RPE", "TALA", "ALCD2x", "LDH_D", "ACALD", "TKT1", "ACONTa"]
 
 koList = {'PFL'; 'RPI'; 'TKT2'; 'RPE'; 'TALA'; 'ALCD2x'; 'LDH_D'; 'ACALD'; 'TKT1'; 'ACONTa'}
+
+rnxList = ['ACALD', 'ALCD2x', 'GLCabcpp', 'GND', 'HEX1', 'LDH_D', 'PFL', 'PFK', 'PYK', 'TKT2']
