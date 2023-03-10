@@ -1,0 +1,11 @@
+﻿Set number,Force Set,Type of regulation,Min flux in Wild Type (mmol/gDW hr),Max flux in Wild Type (mmol/gDW hr),Min flux in Mutant (mmol/gDW hr),Max flux in Mutant (mmol/gDW hr),Achieved flux (mmol/gDW hr),Objective function (mmol/gDW hr),Minimum guaranteed for target (mmol/gDW hr),Maximum guaranteed for target (mmol/gDW hr),Maximum growth rate (1/hr)
+1,EX_so4_e,upregulation,-55.20063903,-2.26989,0,0,0,400,400,400,0
+1,IPPMIb,upregulation,-6.847363,-4.054779,0,0,0,,,,
+1,SUCCtex,downregulation,-211.6196086,0,-400,-400,-400,,,,
+1,EX_ac_e,knockout,0,432.7522656,0,0,0,,,,
+1,EX_pi_e,knockout,-33.49296761,-8.681679,0,0,0,,,,
+2,IPPMIa,upregulation,-6.847363,-4.054779,0,0,0,400,400,400,0
+2,KARA1,upregulation,-10.661005,-7.868421,0,0,0,,,,
+2,ILETA,upregulation,-5.407345,-2.614761,0,0,0,,,,
+2,PItex,knockout,8.681679,33.49296761,0,0,0,,,,
+3,EX_o2_e,knockout,-100,-51.22321764,-100,0,0,,,,
